@@ -38,7 +38,7 @@ export const cancellationEmailContent: Record<Language, CancellationEmailContent
     contactLink: `${WEBSITE_URL}/contact`,
     websiteUrl: WEBSITE_URL,
     viewInBrowserText: 'Bekijk in browser',
-    contactEmail: 'info@yentlquintelier.com'
+    contactEmail: 'info@sommelierquintelier.com'
   },
   en: {
     subject: 'Confirm wine subscription cancellation',
@@ -56,7 +56,7 @@ export const cancellationEmailContent: Record<Language, CancellationEmailContent
     contactLink: `${WEBSITE_URL}/contact`,
     websiteUrl: WEBSITE_URL,
     viewInBrowserText: 'View in browser',
-    contactEmail: 'info@yentlquintelier.com'
+    contactEmail: 'info@sommelierquintelier.com'
   },
   fr: {
     subject: 'Confirmer la résiliation de l\'abonnement vin',
@@ -74,6 +74,6 @@ export const cancellationEmailContent: Record<Language, CancellationEmailContent
     contactLink: `${WEBSITE_URL}/contact`,
     websiteUrl: WEBSITE_URL,
     viewInBrowserText: 'Voir dans le navigateur',
-    contactEmail: 'info@yentlquintelier.com'
+    contactEmail: 'info@sommelierquintelier.com'
   }
 };

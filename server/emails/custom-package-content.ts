@@ -66,7 +66,7 @@ export const customPackageEmailContent: Record<Language, CustomPackageEmailConte
     closingText: 'Heeft u in de tussentijd vragen? Aarzel niet om contact met ons op te nemen.',
     signature: 'Met vriendelijke groet,\nYentl Quintelier\nGediplomeerd Sommelier',
     footerLocation: 'België',
-    contactEmail: 'info@yentlquintelier.com',
+    contactEmail: 'info@sommelierquintelier.com',
     websiteUrl: WEBSITE_URL
   },
   en: {
@@ -88,7 +88,7 @@ export const customPackageEmailContent: Record<Language, CustomPackageEmailConte
     closingText: 'Do you have any questions in the meantime? Don\'t hesitate to contact us.',
     signature: 'Kind regards,\nYentl Quintelier\nCertified Sommelier',
     footerLocation: 'Belgium',
-    contactEmail: 'info@yentlquintelier.com',
+    contactEmail: 'info@sommelierquintelier.com',
     websiteUrl: WEBSITE_URL
   },
   fr: {
@@ -110,7 +110,7 @@ export const customPackageEmailContent: Record<Language, CustomPackageEmailConte
     closingText: 'Avez-vous des questions entre-temps ? N\'hésitez pas à nous contacter.',
     signature: 'Cordialement,\nYentl Quintelier\nSommelier Certifié',
     footerLocation: 'Belgique',
-    contactEmail: 'info@yentlquintelier.com',
+    contactEmail: 'info@sommelierquintelier.com',
     websiteUrl: WEBSITE_URL
   }
 };

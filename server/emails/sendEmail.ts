@@ -439,7 +439,7 @@ export async function sendWelcomeEmail({ to, language }: SendWelcomeEmailParams)
         name: 'Yentl Quintelier - Sommelier'
       },
       replyTo: {
-        email: 'info@yentlquintelier.com',
+        email: 'info@sommelierquintelier.com',
         name: 'Yentl Quintelier'
       },
       subject: content.subject,
@@ -858,8 +858,8 @@ export function generateOrderConfirmationEmailHTML(content: OrderConfirmationEma
                             <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
                                 <tr>
                                     <td align="center" style="padding-bottom: 25px;">
-                                        <a href="mailto:info@yentlquintelier.com" style="color: #c7b79e; font-size: 14px; text-decoration: none;">
-                                            &#9993; info@yentlquintelier.com
+                                        <a href="mailto:info@sommelierquintelier.com" style="color: #c7b79e; font-size: 14px; text-decoration: none;">
+                                            &#9993; info@sommelierquintelier.com
                                         </a>
                                     </td>
                                 </tr>
@@ -961,7 +961,7 @@ ${content.signature}
         name: 'Yentl Quintelier - Sommelier'
       },
       replyTo: {
-        email: 'info@yentlquintelier.com',
+        email: 'info@sommelierquintelier.com',
         name: 'Yentl Quintelier'
       },
       subject: content.subject,
@@ -987,7 +987,7 @@ ${content.signature}
       : 'Geen';
 
     const adminMsg = {
-      to: 'info@yentlquintelier.com',
+      to: 'info@sommelierquintelier.com',
       from: {
         email: 'info@sommelierquintelier.com',
         name: 'Sommelier Quintelier - Bestellingen'
@@ -1031,7 +1031,7 @@ ${content.signature}
 
     try {
       await sgMail.send(adminMsg);
-      console.log(`✅ Admin notification email sent to info@yentlquintelier.com`);
+      console.log(`✅ Admin notification email sent to info@sommelierquintelier.com`);
     } catch (adminError: any) {
       console.error('⚠️ Admin notification email failed (order confirmation was sent):', adminError.message);
     }
@@ -1417,7 +1417,7 @@ ${content.signature}
         name: 'Yentl Quintelier - Sommelier'
       },
       replyTo: {
-        email: 'info@yentlquintelier.com',
+        email: 'info@sommelierquintelier.com',
         name: 'Yentl Quintelier'
       },
       subject: content.subject,
@@ -2004,7 +2004,7 @@ ${content.signature}
         name: 'Yentl Quintelier - Sommelier'
       },
       replyTo: {
-        email: 'info@yentlquintelier.com',
+        email: 'info@sommelierquintelier.com',
         name: 'Yentl Quintelier'
       },
       subject: content.subject,
@@ -2063,7 +2063,7 @@ ${request.additionalWishes || content.noAdditionalWishes}
     `.trim();
 
     const msg = {
-      to: 'info@yentlquintelier.com',
+      to: 'info@sommelierquintelier.com',
       from: {
         email: 'info@sommelierquintelier.com',
         name: 'Sommelier Quintelier - Website'
@@ -2086,7 +2086,7 @@ ${request.additionalWishes || content.noAdditionalWishes}
     };
 
     await sgMail.send(msg);
-    console.log(`✅ Custom package admin notification sent to info@yentlquintelier.com`);
+    console.log(`✅ Custom package admin notification sent to info@sommelierquintelier.com`);
     return true;
   } catch (error: any) {
     console.error('❌ Error sending custom package admin notification:', error);
@@ -2320,7 +2320,7 @@ ${content.signature}
         name: 'Yentl Quintelier - Sommelier'
       },
       replyTo: {
-        email: 'info@yentlquintelier.com',
+        email: 'info@sommelierquintelier.com',
         name: 'Yentl Quintelier'
       },
       subject: content.subject,
@@ -2745,7 +2745,7 @@ ${content.signature}
         name: 'Yentl Quintelier - Sommelier'
       },
       replyTo: {
-        email: 'info@yentlquintelier.com',
+        email: 'info@sommelierquintelier.com',
         name: 'Yentl Quintelier'
       },
       subject: content.subject,

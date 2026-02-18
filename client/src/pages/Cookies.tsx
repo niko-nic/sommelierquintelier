@@ -213,7 +213,7 @@ const getCookiesContent = (lang: string): CookiesContent => {
               <p className="text-muted-foreground leading-relaxed mt-4">
                 Yentl Quintelier - Sommelier<br />
                 VAT: BE1025083231<br />
-                Email: <a href="mailto:info@yentlquintelier.com" className="text-primary hover:underline">info@yentlquintelier.com</a>
+                Email: <a href="mailto:info@sommelierquintelier.com" className="text-primary hover:underline">info@sommelierquintelier.com</a>
               </p>
             </>
           ),
@@ -420,7 +420,7 @@ const getCookiesContent = (lang: string): CookiesContent => {
               <p className="text-muted-foreground leading-relaxed mt-4">
                 Yentl Quintelier - Sommelier<br />
                 TVA: BE1025083231<br />
-                Email: <a href="mailto:info@yentlquintelier.com" className="text-primary hover:underline">info@yentlquintelier.com</a>
+                Email: <a href="mailto:info@sommelierquintelier.com" className="text-primary hover:underline">info@sommelierquintelier.com</a>
               </p>
             </>
           ),
@@ -627,7 +627,7 @@ const getCookiesContent = (lang: string): CookiesContent => {
             <p className="text-muted-foreground leading-relaxed mt-4">
               Yentl Quintelier - Sommelier<br />
               BTW: BE1025083231<br />
-              E-mail: <a href="mailto:info@yentlquintelier.com" className="text-primary hover:underline">info@yentlquintelier.com</a>
+              E-mail: <a href="mailto:info@sommelierquintelier.com" className="text-primary hover:underline">info@sommelierquintelier.com</a>
             </p>
           </>
         ),

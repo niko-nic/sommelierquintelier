@@ -90,7 +90,7 @@ const getTermsContent = (lang: string): TermsContent => {
               </p>
               <p className="text-muted-foreground leading-relaxed mt-4">
                 <strong>5.2 Cancellation:</strong> You can cancel your subscription at any time. Cancellation can be done via the link in your order confirmation 
-                or by contacting info@yentlquintelier.com. Upon cancellation, the subscription is immediately cancelled and 
+                or by contacting info@sommelierquintelier.com. Upon cancellation, the subscription is immediately cancelled and 
                 you will not receive any new deliveries. No future payments will be collected. 
                 For amounts already paid: if your wine delivery has not yet been prepared or shipped, a proportional 
                 refund will be made. Please contact us for a refund if applicable.
@@ -147,7 +147,7 @@ const getTermsContent = (lang: string): TermsContent => {
             <>
               <p className="text-muted-foreground leading-relaxed">
                 We guarantee that our products and services meet the agreed specifications. 
-                Complaints about products must be reported within 7 days of receipt via info@yentlquintelier.com
+                Complaints about products must be reported within 7 days of receipt via info@sommelierquintelier.com
               </p>
               <p className="text-muted-foreground leading-relaxed mt-4">
                 In case of defects, we will choose to repair, replace, or refund. 
@@ -240,7 +240,7 @@ const getTermsContent = (lang: string): TermsContent => {
                 Yentl Quintelier - Sommelier Quintelier<br />
                 VAT: BE1025083231<br />
                 Belgium<br />
-                Email: <a href="mailto:info@yentlquintelier.com" className="text-primary hover:underline">info@yentlquintelier.com</a>
+                Email: <a href="mailto:info@sommelierquintelier.com" className="text-primary hover:underline">info@sommelierquintelier.com</a>
               </p>
             </>
           ),
@@ -324,7 +324,7 @@ const getTermsContent = (lang: string): TermsContent => {
               </p>
               <p className="text-muted-foreground leading-relaxed mt-4">
                 <strong>5.2 Annulation:</strong> Vous pouvez annuler votre abonnement à tout moment. L'annulation peut être effectuée via le lien dans votre confirmation de commande 
-                ou en contactant info@yentlquintelier.com. Lors de l'annulation, l'abonnement est immédiatement annulé et 
+                ou en contactant info@sommelierquintelier.com. Lors de l'annulation, l'abonnement est immédiatement annulé et 
                 vous ne recevrez plus de nouvelles livraisons. Aucun paiement futur ne sera prélevé. 
                 Pour les montants déjà payés: si votre livraison de vin n'a pas encore été préparée ou expédiée, un remboursement 
                 proportionnel sera effectué. Veuillez nous contacter pour un remboursement le cas échéant.
@@ -381,7 +381,7 @@ const getTermsContent = (lang: string): TermsContent => {
             <>
               <p className="text-muted-foreground leading-relaxed">
                 Nous garantissons que nos produits et services répondent aux spécifications convenues. 
-                Les réclamations concernant les produits doivent être signalées dans les 7 jours suivant la réception via info@yentlquintelier.com
+                Les réclamations concernant les produits doivent être signalées dans les 7 jours suivant la réception via info@sommelierquintelier.com
               </p>
               <p className="text-muted-foreground leading-relaxed mt-4">
                 En cas de défauts, nous choisirons de réparer, remplacer ou rembourser. 
@@ -474,7 +474,7 @@ const getTermsContent = (lang: string): TermsContent => {
                 Yentl Quintelier - Sommelier Quintelier<br />
                 TVA: BE1025083231<br />
                 Belgique<br />
-                Email: <a href="mailto:info@yentlquintelier.com" className="text-primary hover:underline">info@yentlquintelier.com</a>
+                Email: <a href="mailto:info@sommelierquintelier.com" className="text-primary hover:underline">info@sommelierquintelier.com</a>
               </p>
             </>
           ),
@@ -558,7 +558,7 @@ const getTermsContent = (lang: string): TermsContent => {
             </p>
             <p className="text-muted-foreground leading-relaxed mt-4">
               <strong>5.2 Opzegging:</strong> U kunt uw abonnement te allen tijde opzeggen. Opzeggen kan via de link in uw orderbevestiging 
-              of door contact op te nemen met info@yentlquintelier.com. Bij opzegging wordt het abonnement direct geannuleerd en 
+              of door contact op te nemen met info@sommelierquintelier.com. Bij opzegging wordt het abonnement direct geannuleerd en 
               ontvangt u geen nieuwe leveringen meer. Er worden geen toekomstige betalingen meer geïncasseerd. 
               Voor reeds betaalde bedragen geldt: indien uw wijnlevering nog niet is voorbereid of verzonden, wordt een evenredig 
               deel terugbetaald. Neem contact op met ons voor terugbetaling indien van toepassing.
@@ -615,7 +615,7 @@ const getTermsContent = (lang: string): TermsContent => {
           <>
             <p className="text-muted-foreground leading-relaxed">
               Wij garanderen dat onze producten en diensten voldoen aan de overeengekomen specificaties. 
-              Klachten over producten dienen binnen 7 dagen na ontvangst gemeld te worden via info@yentlquintelier.com
+              Klachten over producten dienen binnen 7 dagen na ontvangst gemeld te worden via info@sommelierquintelier.com
             </p>
             <p className="text-muted-foreground leading-relaxed mt-4">
               Bij gebreken zullen wij naar keuze overgaan tot herstel, vervanging of terugbetaling. 
@@ -708,7 +708,7 @@ const getTermsContent = (lang: string): TermsContent => {
               Yentl Quintelier - Sommelier Quintelier<br />
               BTW: BE1025083231<br />
               België<br />
-              E-mail: <a href="mailto:info@yentlquintelier.com" className="text-primary hover:underline">info@yentlquintelier.com</a>
+              E-mail: <a href="mailto:info@sommelierquintelier.com" className="text-primary hover:underline">info@sommelierquintelier.com</a>
             </p>
           </>
         ),

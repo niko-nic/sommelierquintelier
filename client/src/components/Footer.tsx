@@ -179,7 +179,7 @@ export function Footer() {
                 <ul className="space-y-3 pt-4 text-white/70 text-sm">
                   <li>
                     <a 
-                      href="mailto:info@yentlquintelier.com" 
+                      href="mailto:info@sommelierquintelier.com" 
                       className="block hover:text-white transition-colors"
                       data-testid="link-footer-email"
                     >
@@ -325,7 +325,7 @@ export function Footer() {
               <ul className="space-y-2 text-white/70 text-sm">
                 <li>
                   <a 
-                    href="mailto:info@yentlquintelier.com" 
+                    href="mailto:info@sommelierquintelier.com" 
                     className="hover:text-white transition-colors"
                     data-testid="link-footer-email"
                   >

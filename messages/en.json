@@ -464,7 +464,7 @@
     "consultancy": "Wine Consultancy",
     "private": "Private Sommelier",
     "cellar": "Wine Cellar Management",
-    "email": "info@yentlquintelier.com",
+    "email": "info@sommelierquintelier.com",
     "locationText": "East Flanders, Belgium",
     "copyright": "Sommelier.Quintelier - All rights reserved.",
     "privacy": "Privacy Policy",
@@ -655,7 +655,7 @@
             "objection": "Right to object - You can object to the processing",
             "portability": "Right to data portability - You can receive your data in a structured format"
           },
-          "contact": "To exercise these rights, please contact us at info@yentlquintelier.com"
+          "contact": "To exercise these rights, please contact us at info@sommelierquintelier.com"
         },
         "security": {
           "title": "6. Security",
@@ -704,7 +704,7 @@
           },
           "cancellation": {
             "label": "Cancellation:",
-            "content": "You can cancel your subscription at any time. Cancellation can be done via the link in your order confirmation or by contacting info@yentlquintelier.com."
+            "content": "You can cancel your subscription at any time. Cancellation can be done via the link in your order confirmation or by contacting info@sommelierquintelier.com."
           },
           "payment": {
             "label": "Payment:",

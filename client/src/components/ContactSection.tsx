@@ -90,10 +90,10 @@ export function ContactSection() {
               <div>
                 <h3 className="font-medium mb-2">{t('contact.emailLabel')}</h3>
                 <a 
-                  href="mailto:info@yentlquintelier.com" 
+                  href="mailto:info@sommelierquintelier.com" 
                   className="text-muted-foreground hover:text-primary transition-colors"
                 >
-                  info@yentlquintelier.com
+                  info@sommelierquintelier.com
                 </a>
               </div>
             </div>

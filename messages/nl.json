@@ -464,7 +464,7 @@
     "consultancy": "Wijnconsultancy",
     "private": "Privé Sommelier",
     "cellar": "Privé Wijnkelder",
-    "email": "info@yentlquintelier.com",
+    "email": "info@sommelierquintelier.com",
     "locationText": "Oost-Vlaanderen, België",
     "copyright": "Sommelier.Quintelier - Alle rechten voorbehouden.",
     "privacy": "Privacybeleid",
@@ -655,7 +655,7 @@
             "objection": "Recht op bezwaar - U kunt bezwaar maken tegen de verwerking",
             "portability": "Recht op gegevensoverdraagbaarheid - U kunt uw gegevens in een gestructureerd formaat ontvangen"
           },
-          "contact": "Om deze rechten uit te oefenen, neem contact met ons op via info@yentlquintelier.com"
+          "contact": "Om deze rechten uit te oefenen, neem contact met ons op via info@sommelierquintelier.com"
         },
         "security": {
           "title": "6. Beveiliging",
@@ -704,7 +704,7 @@
           },
           "cancellation": {
             "label": "Opzegging:",
-            "content": "U kunt uw abonnement op elk moment opzeggen. Opzegging kan via de link in uw orderbevestiging of door contact op te nemen met info@yentlquintelier.com."
+            "content": "U kunt uw abonnement op elk moment opzeggen. Opzegging kan via de link in uw orderbevestiging of door contact op te nemen met info@sommelierquintelier.com."
           },
           "payment": {
             "label": "Betaling:",

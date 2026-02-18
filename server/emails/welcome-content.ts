@@ -76,7 +76,7 @@ export const welcomeEmailContent: Record<Language, WelcomeEmailContent> = {
     unsubscribeText: 'Je ontvangt deze email omdat je je hebt ingeschreven voor onze nieuwsbrief. Geen interesse meer?',
     unsubscribeLink: 'Klik hier om je uit te schrijven',
     viewInBrowserText: 'Bekijk in browser',
-    contactEmail: 'info@yentlquintelier.com'
+    contactEmail: 'info@sommelierquintelier.com'
   },
   en: {
     subject: 'Welcome to Sommelier.quintelier',
@@ -124,7 +124,7 @@ export const welcomeEmailContent: Record<Language, WelcomeEmailContent> = {
     unsubscribeText: 'You\'re receiving this email because you subscribed to our newsletter. Not interested anymore?',
     unsubscribeLink: 'Click here to unsubscribe',
     viewInBrowserText: 'View in browser',
-    contactEmail: 'info@yentlquintelier.com'
+    contactEmail: 'info@sommelierquintelier.com'
   },
   fr: {
     subject: 'Bienvenue chez Sommelier.quintelier',
@@ -172,6 +172,6 @@ export const welcomeEmailContent: Record<Language, WelcomeEmailContent> = {
     unsubscribeText: 'Vous recevez cet e-mail car vous vous êtes inscrit à notre newsletter. Plus intéressé ?',
     unsubscribeLink: 'Cliquez ici pour vous désabonner',
     viewInBrowserText: 'Voir dans le navigateur',
-    contactEmail: 'info@yentlquintelier.com'
+    contactEmail: 'info@sommelierquintelier.com'
   }
 };

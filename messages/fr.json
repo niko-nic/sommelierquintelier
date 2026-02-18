@@ -464,7 +464,7 @@
     "consultancy": "Conseil en Vin",
     "private": "Sommelier Privé",
     "cellar": "Gestion de Cave à Vin",
-    "email": "info@yentlquintelier.com",
+    "email": "info@sommelierquintelier.com",
     "locationText": "Flandre Orientale, Belgique",
     "copyright": "Sommelier.Quintelier - Tous droits réservés.",
     "privacy": "Politique de Confidentialité",
@@ -655,7 +655,7 @@
             "objection": "Droit d'opposition - Vous pouvez vous opposer au traitement",
             "portability": "Droit à la portabilité - Vous pouvez recevoir vos données dans un format structuré"
           },
-          "contact": "Pour exercer ces droits, contactez-nous à info@yentlquintelier.com"
+          "contact": "Pour exercer ces droits, contactez-nous à info@sommelierquintelier.com"
         },
         "security": {
           "title": "6. Sécurité",
@@ -704,7 +704,7 @@
           },
           "cancellation": {
             "label": "Résiliation:",
-            "content": "Vous pouvez résilier votre abonnement à tout moment. La résiliation peut se faire via le lien dans votre confirmation de commande ou en contactant info@yentlquintelier.com."
+            "content": "Vous pouvez résilier votre abonnement à tout moment. La résiliation peut se faire via le lien dans votre confirmation de commande ou en contactant info@sommelierquintelier.com."
           },
           "payment": {
             "label": "Paiement:",
