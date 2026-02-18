@@ -1,0 +1,1 @@
+import{j as e}from"./index--c8LnkeS.js";import{S as r}from"./ServicePageTemplate-DgUfzAIT.js";import{p as t}from"./sommelier_wine_tasti_45a95a04-D8O00a8q.js";import"./Breadcrumbs-sVAiwXz3.js";function p(){return e.jsx(r,{serviceKey:"private",featuredImage:t,featuredImageAlt:"Restaurant wine service moment"})}export{p as default};

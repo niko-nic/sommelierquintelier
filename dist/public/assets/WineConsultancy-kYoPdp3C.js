@@ -1,0 +1,1 @@
+import{j as e}from"./index--c8LnkeS.js";import{S as a}from"./ServicePageTemplate-DgUfzAIT.js";import{c as r}from"./sommelier_wine_tasti_11887368-Wkg0MEeh.js";import"./Breadcrumbs-sVAiwXz3.js";function i(){return e.jsx(a,{serviceKey:"consultancy",featuredImage:r,featuredImageAlt:"Professional sommelier examining wine"})}export{i as default};

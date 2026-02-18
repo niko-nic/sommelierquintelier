@@ -1,0 +1,1 @@
+import{j as e}from"./index--c8LnkeS.js";import{S as r}from"./ServicePageTemplate-DgUfzAIT.js";import{c as a}from"./wine_bottle_collecti_ab5e4249-SovB176b.js";import"./Breadcrumbs-sVAiwXz3.js";function o(){return e.jsx(r,{serviceKey:"cellar",featuredImage:a,featuredImageAlt:"Premium wine cellar collection"})}export{o as default};

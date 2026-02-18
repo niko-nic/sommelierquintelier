@@ -1,0 +1,1 @@
+import{j as e,G as t}from"./index--c8LnkeS.js";import{S as m}from"./ServicePageTemplate-DgUfzAIT.js";import"./Breadcrumbs-sVAiwXz3.js";function i(){return e.jsx(m,{serviceKey:"menu",featuredImage:t,featuredImageAlt:"Custom wine list menu"})}export{i as default};

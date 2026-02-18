@@ -1,0 +1,795 @@
+{
+  "announcement": {
+    "message": "Deze website is momenteel in opbouw. Prijzen en etiketten kunnen afwijken van de werkelijkheid."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "Over",
+    "services": "Diensten",
+    "blog": "Blog",
+    "gallery": "Galerij",
+    "contact": "Contact",
+    "cart": "Winkelwagen"
+  },
+  "checkout": {
+    "title": "Betaling",
+    "description": "Vul uw gegevens in om uw bestelling te voltooien",
+    "processing": "Verwerken...",
+    "completePayment": "Doorgaan naar betaling",
+    "success": "Betaling geslaagd",
+    "successMessage": "Bedankt voor uw bestelling!",
+    "error": "Betaling mislukt",
+    "errorMessage": "Er is iets misgegaan. Probeer het opnieuw.",
+    "mollieRedirectInfo": "U wordt doorgestuurd naar Mollie om uw betaling veilig te voltooien. Na betaling keert u automatisch terug naar onze website.",
+    "extras": "Extras",
+    "extraChampagne": "Fles Champagne",
+    "extraDessert": "Fles Dessertwijn",
+    "ageConfirmation": "Ik bevestig dat ik 18 jaar of ouder ben",
+    "contactInformation": "Contactgegevens",
+    "deliveryAddress": "Afleveradres",
+    "optional": "optioneel",
+    "nameLabel": "Naam",
+    "namePlaceholder": "Volledige naam",
+    "nameRequired": "Naam is verplicht",
+    "emailLabel": "E-mailadres",
+    "emailPlaceholder": "uw@email.be",
+    "emailInvalid": "Ongeldig e-mailadres",
+    "phoneLabel": "Telefoonnummer",
+    "phonePlaceholder": "+32 xxx xx xx xx",
+    "addressLabel": "Straat en nummer",
+    "addressPlaceholder": "Straatnaam 123",
+    "addressRequired": "Adres is verplicht",
+    "cityLabel": "Stad",
+    "cityPlaceholder": "Brussel",
+    "cityRequired": "Stad is verplicht",
+    "postalCodeLabel": "Postcode",
+    "postalCodePlaceholder": "1000",
+    "postalCodeRequired": "Postcode is verplicht",
+    "countryLabel": "Land",
+    "countryPlaceholder": "Selecteer land",
+    "countryRequired": "Land is verplicht",
+    "ageConfirmationRequired": "U moet bevestigen dat u 18+ bent",
+    "recurringBilling": "Maandelijks Abonnement",
+    "recurringDescription": "Dit is een doorlopend abonnement dat maandelijks automatisch wordt verlengd. U kunt op elk moment opzeggen."
+  },
+  "ageGate": {
+    "title": "Welkom bij Sommelier Quintelier",
+    "subtitle": "Leeftijdsverificatie vereist",
+    "description": "Deze website bevat informatie over alcoholische dranken. Vul uw geboortedatum in om te bevestigen dat u minstens 18 jaar oud bent.",
+    "dayLabel": "Dag",
+    "monthLabel": "Maand",
+    "yearLabel": "Jaar",
+    "dayPlaceholder": "DD",
+    "monthPlaceholder": "MM",
+    "yearPlaceholder": "JJJJ",
+    "confirmButton": "Bevestig leeftijd",
+    "underageError": "U moet minstens 18 jaar oud zijn om deze website te bezoeken.",
+    "invalidDateError": "Vul een geldige geboortedatum in.",
+    "legalDrinkingAge": "De wettelijke minimumleeftijd voor alcoholconsumptie in België is 18 jaar.",
+    "responsibleConsumption": "Drink verantwoord. Alcohol is schadelijk voor de gezondheid.",
+    "privacyNotice": "Uw geboortedatum wordt niet opgeslagen. Deze verificatie wordt alleen gebruikt om uw leeftijd te controleren."
+  },
+  "thankYou": {
+    "title": "Bedankt voor uw bestelling",
+    "subtitle": "Uw betaling is succesvol verwerkt",
+    "confirmation": "We hebben uw bestelling ontvangen en deze wordt binnenkort verwerkt.",
+    "emailSent": "Een bevestigingsmail is verzonden naar uw e-mailadres.",
+    "nextStepsTitle": "Wat gebeurt er nu?",
+    "step1": "U ontvangt binnen 24 uur een bevestigingsmail",
+    "step2": "Wij stellen uw wijnselectie zorgvuldig samen",
+    "step3": "Uw wijnabonnement wordt verzonden binnen 3-5 werkdagen",
+    "backToHome": "Terug naar home",
+    "exploreBlog": "Ontdek onze blog",
+    "payment": "Betaling",
+    "status": "Status",
+    "completed": "Voltooid"
+  },
+  "notFound": {
+    "title": "Pagina niet gevonden",
+    "subtitle": "De pagina die u zoekt bestaat niet of is verplaatst",
+    "message": "Het lijkt erop dat deze fles niet in onze kelder te vinden is. Laten we u terugbrengen naar onze collectie.",
+    "backToHome": "Terug naar home",
+    "contactUs": "Neem contact op",
+    "errorCode": "Foutcode: 404"
+  },
+  "hero": {
+    "title": "Privé Sommelier België",
+    "subtitle": "Uw Privé Sommelier voor Exclusieve Wijnervaringen",
+    "tagline": "Wijn is een kunst van beleving, verfijning en emotie.",
+    "cta": "Neem contact op",
+    "imageAlt": "Privé sommelier schenkt rode wijn in tijdens exclusieve wijndegustatie in België"
+  },
+  "seo": {
+    "title": "Privé Sommelier België | Sommelier Quintelier",
+    "description": "Zoekt u een privé sommelier in België? Yentl Quintelier biedt exclusieve wijnervaringen, degustaties en wijnadvies op maat. Sommelier of the Year 2022."
+  },
+  "intro": {
+    "opening": "Wijn is een kunst van beleving, verfijning en emotie.",
+    "paragraph1": "Als uw privé sommelier creëer ik exclusieve wijnervaringen voor fijnproevers, restaurants en privé-events. Ik bied wijnadvies, degustaties en kelderbeheer op maat, met oog voor harmonie tussen smaak, stijl en identiteit.",
+    "paragraph2": "Elke samenwerking vertrekt vanuit jouw verhaal, met wijn als rode draad door smaak, stijl en emotie. Als privé sommelier in België sta ik garant voor persoonlijke begeleiding.",
+    "paragraph3": "Van kelder tot glas, van advies tot beleving – als uw privé sommelier breng ik de essentie van wijn tot leven in haar meest verfijnde vorm."
+  },
+  "services": {
+    "title": "Onze Diensten",
+    "subtitle": "Professionele wijndiensten op maat, van consultancy tot exclusieve degustaties",
+    "heroImageAlt": "Wijngaard landschap met glooiende heuvels vol wijnranken",
+    "seo": {
+      "title": "Diensten | Privé Sommelier België",
+      "description": "Professionele wijndiensten door uw privé sommelier: wijnconsultancy, degustaties, wijnkaart op maat en kelderbeheer in België.",
+      "keywords": "privé sommelier diensten, wijnconsultancy, wijndegustatie, wijnkaart, kelderbeheer België"
+    },
+    "consultancy": {
+      "title": "Wijnconsultancy",
+      "description": "Professioneel advies voor uw perfecte wijnkeuze bij elke gelegenheid",
+      "imageAlt": "Professionele wijnconsultancy sessie met sommelier",
+      "subtitle": "Van selectie tot strategie: wijnadvies op maat.",
+      "intro": "Als freelance sommelier begeleid ik zowel restaurants als particulieren in het selecteren, inkopen en beheren van wijnen. Samen zoeken we naar de perfecte balans tussen kwaliteit, stijl en budget, met aandacht voor identiteit en beleving. Elke klant krijgt een persoonlijk advies, geen standaardlijst, maar een wijnselectie die aansluit bij jouw smaak, zaak of concept. Van kelder tot kaart, van glas tot ervaring: wijnadvies op maat, met passie en precisie.",
+      "keyTakeaways": [
+        "Persoonlijk advies afgestemd op uw identiteit en concept",
+        "Perfecte balans tussen kwaliteit, stijl en budget",
+        "Begeleiding voor restaurants én particulieren",
+        "Van selectie tot inkoop en beheer"
+      ],
+      "collectionsTitle": "Exclusieve Wijncollecties",
+      "bourgogneTitle": "Top Uit Bourgogne",
+      "bourgogneDescription": "Een selectie van de meest prestigieuze wijnen uit de Bourgogne regio, zorgvuldig uitgekozen voor hun uitzonderlijke kwaliteit en karakter.",
+      "drcTitle": "Domaine de la Romanée-Conti",
+      "drcDescription": "De meest begeerde wijnen ter wereld. Een collectie van legendarische Grand Cru wijnen die het toppunt van verfijning en elegantie vertegenwoordigen."
+    },
+    "cellar": {
+      "title": "Privé Wijnkelder",
+      "shortTitle": "Privé Wijnkelder",
+      "description": "Beheer en onderhoud van uw persoonlijke wijncollectie",
+      "imageAlt": "Privé wijnkelder met zorgvuldig opgeslagen flessen",
+      "subtitle": "Een zorgeloze wijnkelder, perfect georganiseerd.",
+      "intro": "Of je nu een beginnende verzamelaar bent of een uitgebreide collectie bezit, een goed georganiseerde kelder is essentieel. Ik bied professioneel advies, inventarisatie en onderhoud van privé-wijnkelders: van temperatuurcontrole en opslagadvies tot aankoop- en rotatieplanning. Zo blijft je collectie niet alleen op punt, maar ook klaar om op elk moment van te genieten.",
+      "keyTakeaways": [
+        "Professionele inventarisatie en organisatie",
+        "Temperatuurcontrole en opslagadvies",
+        "Aankoop- en rotatieplanning",
+        "Voor zowel beginnende als ervaren verzamelaars"
+      ]
+    },
+    "tasting": {
+      "title": "Wijndegustaties",
+      "description": "Exclusieve proeverijen op maat voor uw evenement",
+      "imageAlt": "Wijndegustatie evenement met deskundige sommelier begeleiding",
+      "subtitle": "Ontdek, proef en leer met een sommelier aan je zijde.",
+      "intro": "Een degustatie is meer dan alleen wijn proeven, het is een ervaring, een moment van ontdekking. Tijdens mijn gepersonaliseerde wijndegustaties neem ik je mee door verschillende stijlen, regio's en verhalen. Elke sessie wordt aangepast aan jouw kennisniveau, interesses of thema (regio, druif, foodpairing...). Ideaal voor bedrijven, groepen, of privé-evenementen die op zoek zijn naar een originele en sfeervolle beleving.",
+      "keyTakeaways": [
+        "Gepersonaliseerde sessies afgestemd op uw niveau",
+        "Thematische degustaties naar keuze",
+        "Ideaal voor bedrijven en privé-evenementen",
+        "Een ervaring, geen proeverij"
+      ]
+    },
+    "menu": {
+      "title": "Wijnkaart op Maat",
+      "description": "Samengestelde wijnkaarten voor restaurants en hotels",
+      "imageAlt": "Elegante restaurant wijnservice",
+      "subtitle": "Een wijnkaart die past bij jouw keuken en concept.",
+      "intro": "Een sterke wijnkaart is meer dan een lijst flessen, het is een verlengstuk van je verhaal. Ik help restaurants en horecazaken bij het opbouwen of verfijnen van hun wijnkaart, met focus op harmonie met de gerechten, seizoensinvloeden en margeoptimalisatie. Elke selectie wordt samengesteld op maat van jouw zaak, doelgroep en filosofie.",
+      "keyTakeaways": [
+        "Harmonie met uw gerechten en concept",
+        "Seizoensinvloeden en margeoptimalisatie",
+        "Afgestemd op uw doelgroep en filosofie",
+        "Van opbouw tot verfijning"
+      ]
+    },
+    "subscription": {
+      "title": "Wijnabonnementen",
+      "description": "Zorgvuldig samengesteld & verpakt",
+      "subtitle": "Elke fles vertelt een verhaal: van terroir tot vakmanschap tot passie",
+      "body": "Elke maand kan u genieten van een nieuwe selectie wijnen die met zorg, kennis en finesse werden gekozen door onze sommelier. Onze wijnabonnementen brengen de wereld van wijn tot bij u. Zorgvuldig samengesteld en vergezeld van inspirerende proefnotities en pairingtips.",
+      "flexibility": "Flexibel genieten",
+      "flexibilityText": "Onze abonnementen zijn maandelijks beschikbaar. Je kunt ze eenvoudig pauzeren, aanpassen of beëindigen wanneer je wil. Ook voor wie graag eerst wenst te ontdekken zijn de pakketten per keer verkrijgbaar.",
+      "howItWorks": "Hoe het werkt",
+      "step1Title": "Kies uw pakket",
+      "step1Description": "Selecteer het abonnement dat bij uw smaak past",
+      "step2Title": "Maandelijkse levering",
+      "step2Description": "Ontvangt uw wijnselectie rechtstreeks thuis",
+      "step3Title": "Ontdek & geniet",
+      "step3Description": "Proef met de bijgevoegde proefnotities en pairings",
+      "bottlesCount": "flessen",
+      "featured": {
+        "title": "Expérience Prestige",
+        "tagline": "De topselectie",
+        "description": "Drie of zes uitzonderlijke wijnen, rechtstreeks van exclusieve domeinen.",
+        "priceFrom": "Vanaf",
+        "price3": "€250",
+        "price6": "€480",
+        "perMonth": "/maand",
+        "benefits": [
+          "Uitzonderlijke wijnen van exclusieve domeinen",
+          "Inclusief proefnotities en pairings",
+          "Maandelijks opzegbaar"
+        ],
+        "cta": "Ontdek meer",
+        "bottles": "3 of 6 flessen per maand"
+      },
+      "tiers": {
+        "selection": {
+          "name": "Sélection Élégance",
+          "tagline": "Voor wie houdt van elegantie in eenvoud",
+          "description": "Een stijlvolle kennismaking met de wereld van wijn. Drie of zes zorgvuldig geselecteerde flessen per maand, telkens met karakter, balans en verfijning.",
+          "price3": "€55",
+          "price6": "€100",
+          "bottles3": "3 flessen",
+          "bottles6": "6 flessen",
+          "content3": "1 fris wit + 1 vol wit + 1 rood",
+          "content6": "2 fris wit + 2 vol wit + 2 rood",
+          "features": [
+            "Karakter, balans en verfijning",
+            "Inclusief proefnotities",
+            "Suggestie voor perfecte foodpairing",
+            "Maandelijks opzegbaar"
+          ],
+          "extras": [
+            "+ 1 Fles Champagne: €20",
+            "+ 1 Fles dessertwijn: €20"
+          ]
+        },
+        "cuvee": {
+          "name": "Cuvée Curieuse",
+          "tagline": "Voor de nieuwsgierige liefhebber met een verfijnde smaak",
+          "description": "Een stap verder in de wereld van smaak. Drie of zes expressieve wijnen die samen een thema vormen, een regio, druif of stijl.",
+          "price3": "€110",
+          "price6": "€200",
+          "bottles3": "3 flessen",
+          "bottles6": "6 flessen",
+          "content3": "1 fris wit + 1 vol wit + 1 rood",
+          "content6": "2 fris wit + 2 vol wit + 2 rood",
+          "features": [
+            "Expressieve wijnen met thema",
+            "Inclusief proefnotities",
+            "Suggestie voor perfecte foodpairing",
+            "Maandelijks opzegbaar"
+          ],
+          "extras": [
+            "+ 1 Fles Champagne: €35",
+            "+ 1 Fles dessertwijn: €35"
+          ]
+        },
+        "prestige": {
+          "name": "Expérience Prestige",
+          "tagline": "Voor wie de essentie van wijn op het hoogste niveau wil beleven",
+          "description": "De topselectie. Drie of zes uitzonderlijke wijnen, rechtstreeks van exclusieve domeinen, telkens met een eigen karakter en klasse. Een luxueuze ervaring, perfect voor kenners en verzamelaars.",
+          "price3": "€250",
+          "price6": "€480",
+          "bottles3": "3 flessen",
+          "bottles6": "6 flessen",
+          "content3": "1 fris wit + 1 vol wit + 1 rood",
+          "content6": "2 fris wit + 2 vol wit + 2 rood",
+          "features": [
+            "Uitzonderlijke wijnen van exclusieve domeinen",
+            "Inclusief proefnotities",
+            "Suggestie voor perfecte foodpairing",
+            "Maandelijks opzegbaar"
+          ],
+          "extras": [
+            "+ 1 Fles Champagne: €85",
+            "+ 1 Fles dessertwijn: €85"
+          ]
+        },
+        "champagne": {
+          "name": "Champagne Signature",
+          "tagline": "Voor wie champagne niet enkel als feestmoment ziet, maar als een kunstvorm op zich",
+          "description": "De essentie van verfijning, gevangen in bubbels. Ontdek een exclusieve selectie champagnes van onafhankelijke huizen en gerenommeerde Maisons. Elk met een eigen karakter, finesse en signatuur.",
+          "price3": "€150",
+          "price6": "€275",
+          "bottles3": "3 flessen",
+          "bottles6": "6 flessen",
+          "content3": "1 fles instap + 1 fles middel + 1 fles prestige",
+          "content6": "2 flessen instap + 2 flessen middel + 2 flessen prestige",
+          "features": [
+            "Champagnes met persoonlijkheid",
+            "Passie, kunst en terroir",
+            "Harmonieuze balans tussen elegantie en complexiteit",
+            "Onze sommelier selecteert met zorg"
+          ]
+        },
+        "custom": {
+          "name": "Pakket op Maat",
+          "tagline": "Maatwerk met karakter, geleverd met elegantie",
+          "description": "Voor bijzondere gelegenheden, zakelijke geschenken of privé-evenementen bieden wij wijnpakketten op maat. Onze sommelier stelt een selectie samen die perfect aansluit bij jouw wensen, smaakprofiel en budget.",
+          "price": "Op maat",
+          "bottles": "Op maat",
+          "features": [
+            "Volledig op maat samengesteld",
+            "Perfect voor bijzondere gelegenheden",
+            "Zakelijke geschenken en relatiegeschenken",
+            "Met zorg samengesteld en verpakt"
+          ]
+        }
+      },
+      "cta": "Kies dit pakket",
+      "perMonth": "/maand",
+      "popularBadge": "Populair",
+      "options": "Opties",
+      "content": "Inhoud",
+      "customPackageForm": {
+        "title": "Pakket op Maat - Aanvraagformulier",
+        "description": "Vertel ons meer over uw wensen, zodat wij het perfecte wijnpakket voor u kunnen samenstellen.",
+        "champagneLabel": "Had u graag Champagne gewenst?",
+        "champagneYes": "Ja",
+        "champagneNo": "Nee",
+        "champagneQuantity": "Hoeveel flessen Champagne?",
+        "whiteWineLabel": "Hoeveel flessen witte wijn had u gewenst?",
+        "redWineLabel": "Hoeveel flessen rode wijn had u gewenst?",
+        "dessertWineLabel": "Had u graag een dessertwijn gewenst?",
+        "dessertWineYes": "Ja",
+        "dessertWineNo": "Nee",
+        "dessertWineQuantity": "Hoeveel flessen dessertwijn?",
+        "budgetLabel": "Welk budget hebt u over voor dit gepersonaliseerd wijnpakket?",
+        "budgetOptions": {
+          "0-50": "€0 - €50",
+          "50-100": "€50 - €100",
+          "100-150": "€100 - €150",
+          "150-250": "€150 - €250",
+          "250-500": "€250 - €500",
+          "500+": "€500+"
+        },
+        "wishesLabel": "Had u nog andere wensen of vragen?",
+        "wishesPlaceholder": "Beschrijf hier uw specifieke wensen, voorkeuren, evenement of vragen...",
+        "emailLabel": "Uw e-mailadres",
+        "emailPlaceholder": "naam@voorbeeld.be",
+        "nameLabel": "Uw naam",
+        "namePlaceholder": "Uw volledige naam",
+        "phoneLabel": "Telefoonnummer (optioneel)",
+        "phonePlaceholder": "+32 XXX XX XX XX",
+        "submit": "Verstuur aanvraag",
+        "cancel": "Annuleren",
+        "sending": "Verzenden...",
+        "success": "Uw aanvraag is succesvol verzonden!",
+        "successMessage": "We nemen zo snel mogelijk contact met u op om uw gepersonaliseerd wijnpakket te bespreken.",
+        "error": "Er is iets misgegaan",
+        "errorMessage": "Probeer het later opnieuw of neem rechtstreeks contact met ons op.",
+        "bottles": "flessen",
+        "selectBudget": "Selecteer uw budget",
+        "nameRequired": "Naam is verplicht",
+        "emailInvalid": "Ongeldig e-mailadres",
+        "budgetRequired": "Selecteer een budget",
+        "champagneQuantityRequired": "Voer het aantal flessen Champagne in",
+        "dessertWineQuantityRequired": "Voer het aantal flessen dessertwijn in"
+      }
+    },
+    "private": {
+      "title": "Privé Sommelier",
+      "description": "Persoonlijke begeleiding voor alle wijnbehoeften",
+      "imageAlt": "Privé sommelier biedt gepersonaliseerde wijnservice",
+      "subtitle": "Een sommelier, exclusief voor jouw event, lunch of diner.",
+      "intro": "Wil je een privé-etentje of evenement nét dat tikkeltje extra geven? Als privé sommelier verzorg ik de selectie, service en presentatie van wijnen aan huis of op locatie. Ik zorg voor de perfecte pairing bij jouw menu, vertel het verhaal achter elke wijn en creëer een ontspannen, professionele sfeer aan tafel. Ideaal voor thuisdiners, huwelijken, bedrijfsevents of exclusieve feesten.",
+      "keyTakeaways": [
+        "Exclusieve service aan huis of op locatie",
+        "Perfecte pairing bij uw menu",
+        "Professionele sfeer aan tafel",
+        "Voor thuisdiners, huwelijken en bedrijfsevents"
+      ],
+      "atmosphereTitle": "Een Verfijnde Ervaring",
+      "atmosphereDescription": "Van intieme privé-diners tot grootse evenementen, ik creëer de perfecte wijnbeleving in elke setting. Met oog voor detail en een passie voor service, zorg ik ervoor dat elke fles een verhaal vertelt en elke toast een herinnering wordt."
+    },
+    "tastingBody": "Komt er een bijzondere gelegenheid aan en wil je verrassen met een unieke wijnervaring? Ik organiseer exclusieve wijndegustaties die perfect zijn afgestemd op jouw wensen en budget. Of het nu gaat om een intiem samenzijn of een groter evenement, ik zorg voor een onvergetelijke smaakbeleving.",
+    "menuBody": "Als restauranteigenaar wil je je gasten verrassen met de perfecte wijnkaart. Ik help je met het samenstellen van een wijnkaart die perfect aansluit bij je menu en concept. Van beginnende restaurants tot gevestigde namen, ik zorg dat het plaatje klopt.",
+    "moreInfo": "Meer info"
+  },
+  "about": {
+    "title": "Over Yentl Quintelier",
+    "description": "Wijn is voor mij meer dan een passie, het is een levensverhaal in geur, smaak en emotie.",
+    "seo": {
+      "title": "Over Yentl Quintelier | Privé Sommelier België",
+      "description": "Maak kennis met Yentl Quintelier, Sommelier of the Year Belgium 2022. Ontdek het verhaal achter uw privé sommelier en zijn passie voor wijn.",
+      "keywords": "privé sommelier, sommelier België, Yentl Quintelier, sommelier of the year, wijnexpert"
+    },
+    "cta": "Lees meer",
+    "intro": "Wijn is voor mij meer dan een passie",
+    "paragraph1": "Ik ben Yentl Quintelier, sommelier met hart en ziel. Mijn reis begon op jonge leeftijd, met een droom om chef te worden. Tijdens mijn opleiding aan de Hotelschool Stella Matutina ontdekte ik echter een andere wereld: die van wijn. De finesse, de traditie, het verhaal achter elke fles, het liet me niet meer los.",
+    "paragraph2": "Na een specialisatie in restaurantbeheer en drankenkennis - bekroond met de prijs voor beste leerling van het jaar - mocht ik ervaring opdoen bij enkele van de mooiste restaurants in België: Hertog Jan, Le Château du Mylord, La Table de Maxime en Nuance, waar ik als sommelier instond voor wine pairing, hospitality en het beheer van de wijnkelder.",
+    "paragraph3": "In 2022 werd ik uitgeroepen tot Sommelier of the Year Belgium, een erkenning die mijn passie nog meer heeft aangewakkerd.",
+    "paragraph4": "Vandaag werk ik als freelance sommelier op zelfstandige basis. Ik bied een breed scala aan diensten aan: van degustaties en wijnadvies tot het onderhoud en beheer van privé-wijnkelders. Of het nu gaat om een glas dat perfect past bij een gerecht of om een kelder die een verhaal vertelt, ik geloof dat wijn altijd een beleving hoort te zijn.",
+    "award": "Sommelier of the Year Belgium 2022",
+    "featured": "In de pers",
+    "articleTitle": "Yentl Quintelier: \"Ik wilde minimaal in een tweesterrenrestaurant werken\"",
+    "articleDescription": "Een kijkje in het artikel van L'Avenir over Yentl Quintelier, één van de nieuwe sommeliers van het jaar. Lees meer over zijn passie voor wijn en zijn ambities."
+  },
+  "newsletter": {
+    "title": "Blijf op de hoogte",
+    "description": "Meld je aan voor exclusieve tips, nieuws en aanbiedingen",
+    "placeholder": "Uw e-mailadres",
+    "cta": "Inschrijven",
+    "privacy": "We respecteren uw privacy en spammen niet",
+    "subscribing": "Inschrijven...",
+    "validation": {
+      "emailInvalid": "Ongeldig e-mailadres"
+    },
+    "success": {
+      "title": "Inschrijving geslaagd!",
+      "message": "Bedankt voor uw inschrijving. U ontvangt binnenkort onze nieuwsbrief."
+    },
+    "error": {
+      "title": "Fout bij inschrijven",
+      "message": "Er is iets misgegaan. Probeer het later opnieuw.",
+      "alreadySubscribed": "Dit e-mailadres is al ingeschreven voor onze nieuwsbrief"
+    }
+  },
+  "contact": {
+    "title": "Neem Contact Op",
+    "seo": {
+      "title": "Contact | Privé Sommelier België",
+      "description": "Neem contact op met uw privé sommelier in België. Vraag vrijblijvend advies over wijndegustaties, consultancy of kelderbeheer.",
+      "keywords": "privé sommelier contact, sommelier België, wijnadvies, contact sommelier"
+    },
+    "name": "Naam",
+    "email": "E-mail",
+    "phone": "Telefoon",
+    "message": "Bericht",
+    "submit": "Verzenden",
+    "sending": "Verzenden...",
+    "info": "Heeft u vragen of wilt u meer informatie? Neem vrijblijvend contact met ons op.",
+    "location": "Locatie",
+    "emailLabel": "Email",
+    "validation": {
+      "nameRequired": "Naam is verplicht (minimaal 2 tekens)",
+      "emailInvalid": "Ongeldig e-mailadres",
+      "messageRequired": "Bericht is verplicht (minimaal 10 tekens)"
+    },
+    "success": {
+      "title": "Bericht verzonden!",
+      "message": "Bedankt voor uw bericht. We nemen zo snel mogelijk contact met u op."
+    },
+    "error": {
+      "title": "Fout bij verzenden",
+      "message": "Er is iets misgegaan. Probeer het later opnieuw."
+    }
+  },
+  "footer": {
+    "tagline": "Fine Wine Adventures",
+    "location": "België",
+    "rights": "Alle rechten voorbehouden",
+    "brandDescription": "Fine Wine Adventures door Yentl Quintelier.\nOntdek de wereld van wijn met expert begeleiding.",
+    "contentTitle": "Content",
+    "servicesTitle": "Services",
+    "contactTitle": "Contact",
+    "newsletterTitle": "Nieuwsbrief",
+    "newsletterDescription": "Blijf op de hoogte van exclusieve wijnervaringen en aanbiedingen",
+    "emailPlaceholder": "Uw e-mailadres",
+    "subscribe": "Inschrijven",
+    "home": "Home",
+    "about": "Over",
+    "blog": "Blog",
+    "gallery": "Galerij",
+    "contactPage": "Contact",
+    "subscriptions": "Abonnementen",
+    "tastings": "Wijndegustaties",
+    "menu": "Wijnkaart op Maat",
+    "consultancy": "Wijnconsultancy",
+    "private": "Privé Sommelier",
+    "cellar": "Privé Wijnkelder",
+    "email": "info@yentlquintelier.com",
+    "locationText": "Oost-Vlaanderen, België",
+    "copyright": "Sommelier.Quintelier - Alle rechten voorbehouden.",
+    "privacy": "Privacybeleid",
+    "terms": "Algemene Voorwaarden",
+    "cookies": "Cookies",
+    "cancelSubscription": "Abonnement Opzeggen",
+    "madeBy": "Gemaakt met passie door"
+  },
+  "cancelSubscription": {
+    "pageTitle": "Abonnement Opzeggen",
+    "pageDescription": "Zeg uw wijnabonnement op",
+    "title": "Abonnement Opzeggen",
+    "description": "Voer uw e-mailadres in om een opzeglink te ontvangen. Deze link is 24 uur geldig.",
+    "emailLabel": "E-mailadres",
+    "emailPlaceholder": "uw@email.be",
+    "emailInvalid": "Ongeldig e-mailadres",
+    "important": "Belangrijk",
+    "importantNote": "U ontvangt een beveiligde link via e-mail om uw opzegging te bevestigen. Deze link is 24 uur geldig.",
+    "processing": "Verwerken...",
+    "sendLink": "Stuur opzeglink",
+    "requestSent": "Link verzonden",
+    "checkEmail": "Controleer uw e-mail voor de opzeglink",
+    "error": "Fout",
+    "errorMessage": "Er is iets misgegaan. Probeer het opnieuw.",
+    "successTitle": "Link verzonden!",
+    "successMessage": "We hebben een beveiligde opzeglink naar uw e-mail gestuurd.",
+    "linkExpiry": "Deze link is 24 uur geldig.",
+    "confirmTitle": "Bevestig opzegging",
+    "confirmDescription": "Bevestig de opzegging van uw wijnabonnement",
+    "confirmWarning": "Deze actie kan niet ongedaan worden gemaakt",
+    "confirmWarningTitle": "Let op",
+    "confirmPoint1": "Uw abonnement wordt onmiddellijk geannuleerd",
+    "confirmPoint2": "Er worden geen verdere betalingen in rekening gebracht",
+    "confirmPoint3": "U behoudt toegang tot de huidige maand",
+    "confirmButton": "Ja, opzeggen",
+    "keepSubscription": "Behouden",
+    "noToken": "Ongeldige of ontbrekende opzeglink",
+    "cancelSuccess": "Abonnement opgezegd",
+    "cancelSuccessMessage": "Uw wijnabonnement is succesvol opgezegd.",
+    "cancelSuccessDetail": "Er worden geen verdere betalingen in rekening gebracht. U ontvangt een bevestigingsmail.",
+    "confirmError": "Fout bij opzegging",
+    "backHome": "Terug naar home",
+    "requestNewLink": "Vraag nieuwe link aan"
+  },
+  "blog": {
+    "seo": {
+      "title": "Blog | Privé Sommelier België",
+      "description": "Lees artikelen over wijn, druivensoorten en culinaire expertise door uw privé sommelier. Tips over wijnselectie, food pairing en meer.",
+      "keywords": "privé sommelier blog, wijn artikelen, druivensoorten, wijn tips, sommelier advies"
+    },
+    "allArticles": "Alle artikelen",
+    "readMore": "Lees meer",
+    "minutes": "min",
+    "minRead": "min leestijd",
+    "readTime": "min leestijd",
+    "backToBlog": "Terug naar blog",
+    "relatedArticles": "Gerelateerde artikelen",
+    "relatedPosts": "Gerelateerde artikelen",
+    "viewAllPosts": "Bekijk alle artikelen",
+    "notFound": "Artikel niet gevonden",
+    "tableOfContents": "Inhoudsopgave",
+    "summary": "Samenvatting",
+    "keyTakeaways": "Belangrijkste Punten",
+    "categories": {
+      "all": "Alles",
+      "druiven": "Druiven",
+      "tips": "Tips",
+      "service": "Service"
+    }
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "blog": "Blog",
+    "about": "Over",
+    "gallery": "Galerij",
+    "contact": "Contact",
+    "privacy": "Privacybeleid",
+    "terms": "Algemene Voorwaarden",
+    "cookies": "Cookiebeleid"
+  },
+  "modal": {
+    "included": "Inbegrepen:",
+    "extras": "Optionele extra's:",
+    "viewAll": "Bekijk alle abonnementen"
+  },
+  "gallery": {
+    "title": "Galerij",
+    "subtitle": "Sfeerbeelden van evenementen, proeverijen en de wereld van wijn",
+    "seo": {
+      "title": "Galerij | Privé Sommelier België",
+      "description": "Ontdek de wereld van wijn via onze galerij. Exclusieve beelden van wijnproeverijen, champagnehuizen, wijngaarden en privé-evenementen.",
+      "keywords": "wijngalerij, champagne, wijnproeverij foto's, sommelier, wijncollectie, wijngaarden"
+    },
+    "categories": {
+      "premium": "Premium Collectie",
+      "vintage": "Vintage Wijnen",
+      "champagne": "Champagne",
+      "dessert": "Dessertwijn",
+      "awards": "Prijzen",
+      "vineyards": "Wijngaarden",
+      "cellar": "Wijnkelder",
+      "tasting": "Proeverijen",
+      "spirits": "Gedistilleerd",
+      "education": "Educatie"
+    },
+    "images": {
+      "pommard": "Pommard Clos Epeneaux",
+      "rousseau": "Clos de la Roche 1996",
+      "agrapart": "Agrapart et Fils",
+      "vouvray": "Vouvray Le Mont 1995",
+      "bollingerSign": "Maison Bollinger",
+      "collection": "Exclusieve Selectie",
+      "yquem": "Château d'Yquem 6L",
+      "clicquotCork": "La Grande Dame Kurk",
+      "bollingerBarrel": "Bollinger Eiken Vat",
+      "ayala": "Maison Ayala",
+      "certan": "Vieux Château Certan",
+      "award": "Sommelier van het Jaar",
+      "loireVineyard": "Wijngaard Loire",
+      "cellarBarrels": "Traditionele Kelder",
+      "krug": "Krug Clos du Mesnil 2000",
+      "jancisRobinson": "Jancis Robinson Wine Encyclopedia",
+      "rousseau2016": "Armand Rousseau Grand Cru 2016",
+      "tastingAtmosphere": "Wijnproeverij Sfeer",
+      "whiskyCollection": "Exclusieve Whisky Collectie",
+      "paillardCorks": "Bruno Paillard Champagne Kurken",
+      "remuageCellar": "Remuage in Champagne Kelder",
+      "concreteEggs": "Betonnen Gist-eieren",
+      "amphoras": "Terracotta Amfora's",
+      "event": "Wine tasting evenement",
+      "sommelierExamining": "Sommelier wijn onderzoeken",
+      "cellarCollection": "Premium wijnkelder",
+      "vineyard": "Wijngaard landschap",
+      "restaurantService": "Restaurant wijnservice",
+      "workshop": "Wijn educatie workshop",
+      "bottleCollection": "Premium wijnflessen",
+      "privateTasting": "Privé wijnproeverij",
+      "consultation": "Restaurant consultatie",
+      "pairing": "Wijn en kaas pairing",
+      "label": "Wijnlabel onderzoeken",
+      "barrelCellar": "Traditionele wijnkelder"
+    }
+  },
+  "legal": {
+    "privacy": {
+      "title": "Privacybeleid",
+      "lastUpdate": "Laatst bijgewerkt: November 2025",
+      "metaDescription": "Privacybeleid van Sommelier Quintelier - Hoe we uw persoonsgegevens beschermen en gebruiken.",
+      "sections": {
+        "introduction": {
+          "title": "1. Inleiding",
+          "content": "Sommelier Quintelier, gevestigd in België en vertegenwoordigd door Yentl Quintelier, hecht veel belang aan de bescherming van uw privacy. In dit privacybeleid leggen we uit welke persoonsgegevens we verzamelen, waarom we die verzamelen en hoe we ze gebruiken."
+        },
+        "controller": {
+          "title": "2. Verwerkingsverantwoordelijke"
+        },
+        "dataCollected": {
+          "title": "3. Welke gegevens verzamelen we?",
+          "intro": "We kunnen de volgende persoonsgegevens van u verzamelen:",
+          "items": {
+            "contact": "Contactgegevens (naam, e-mailadres, telefoonnummer)",
+            "business": "Bedrijfsgegevens (bedrijfsnaam, BTW-nummer indien van toepassing)",
+            "communication": "Communicatiegegevens (berichten, vragen, feedback)",
+            "payment": "Betalingsgegevens (voor abonnementen en diensten)",
+            "preferences": "Voorkeuren (wijnvoorkeuren, allergieën, dieetvereisten)"
+          }
+        },
+        "purpose": {
+          "title": "4. Waarom verzamelen we uw gegevens?",
+          "intro": "We gebruiken uw persoonsgegevens voor:",
+          "items": {
+            "services": "Het verlenen van onze diensten (wijnadvies, proeverijen, abonnementen)",
+            "orders": "Het verwerken van bestellingen, betalingen en doorlopende abonnementen",
+            "questions": "Het beantwoorden van uw vragen en verzoeken",
+            "newsletters": "Het verzenden van nieuwsbrieven (alleen met uw toestemming)",
+            "improvement": "Het verbeteren van onze diensten en marketing",
+            "legal": "Het voldoen aan wettelijke verplichtingen"
+          }
+        },
+        "rights": {
+          "title": "5. Uw rechten",
+          "intro": "U heeft de volgende rechten met betrekking tot uw persoonsgegevens:",
+          "items": {
+            "access": "Recht op inzage - U kunt opvragen welke gegevens we van u bewaren",
+            "rectification": "Recht op rectificatie - U kunt correctie van onjuiste gegevens verzoeken",
+            "erasure": "Recht op verwijdering - U kunt verwijdering van uw gegevens verzoeken",
+            "restriction": "Recht op beperking - U kunt beperking van de verwerking verzoeken",
+            "objection": "Recht op bezwaar - U kunt bezwaar maken tegen de verwerking",
+            "portability": "Recht op gegevensoverdraagbaarheid - U kunt uw gegevens in een gestructureerd formaat ontvangen"
+          },
+          "contact": "Om deze rechten uit te oefenen, neem contact met ons op via info@yentlquintelier.com"
+        },
+        "security": {
+          "title": "6. Beveiliging",
+          "content": "We nemen passende technische en organisatorische maatregelen om uw persoonsgegevens te beschermen tegen verlies, misbruik, ongeoorloofde toegang en ongewenste openbaarmaking."
+        },
+        "contact": {
+          "title": "7. Contact",
+          "content": "Heeft u vragen over ons privacybeleid? Neem gerust contact met ons op."
+        }
+      }
+    },
+    "terms": {
+      "title": "Algemene Voorwaarden",
+      "lastUpdate": "Laatst bijgewerkt: November 2025",
+      "metaDescription": "Algemene Voorwaarden van Sommelier Quintelier voor diensten en wijnabonnementen.",
+      "sections": {
+        "scope": {
+          "title": "1. Toepassingsgebied",
+          "content": "Deze algemene voorwaarden zijn van toepassing op alle diensten aangeboden door Yentl Quintelier, handelend onder de naam Sommelier Quintelier, gevestigd in België. Door gebruik te maken van onze diensten, gaat u akkoord met deze voorwaarden."
+        },
+        "services": {
+          "title": "2. Onze diensten",
+          "intro": "Wij bieden de volgende diensten aan:",
+          "items": {
+            "consultancy": "Wijnadvies en consultancy voor particulieren en bedrijven",
+            "tastings": "Wijnproeverijen en educatieve evenementen",
+            "private": "Privé sommelier diensten",
+            "wineList": "Wijnkaart creatie en beheer voor restaurants",
+            "cellar": "Beheer van privé wijnkelders",
+            "subscriptions": "Maandelijkse wijnabonnementen"
+          }
+        },
+        "orders": {
+          "title": "3. Bestellingen en overeenkomsten",
+          "content": "Een overeenkomst komt tot stand wanneer u een bestelling plaatst en wij deze per e-mail bevestigen. Alle aanbiedingen zijn vrijblijvend tenzij anders vermeld. Wij behouden ons het recht voor om bestellingen zonder opgave van redenen te weigeren."
+        },
+        "payment": {
+          "title": "4. Prijzen en betaling",
+          "content": "Alle prijzen zijn in euro's en inclusief BTW tenzij anders vermeld. Betaling dient te geschieden volgens de op de factuur vermelde betalingsmethode en binnen de gestelde termijn. Voor wijnabonnementen geschiedt betaling via automatische incasso via onze betalingsprovider Mollie."
+        },
+        "subscriptions": {
+          "title": "5. Wijnabonnementen",
+          "duration": {
+            "label": "Duur en verlenging:",
+            "content": "Wijnabonnementen worden maandelijks automatisch verlengd tenzij anders overeengekomen. Betaling geschiedt via automatische incasso via Mollie."
+          },
+          "cancellation": {
+            "label": "Opzegging:",
+            "content": "U kunt uw abonnement op elk moment opzeggen. Opzegging kan via de link in uw orderbevestiging of door contact op te nemen met info@yentlquintelier.com."
+          },
+          "payment": {
+            "label": "Betaling:",
+            "content": "De eerste maandelijkse betaling vindt plaats bij het afsluiten van het abonnement. Volgende betalingen worden automatisch rond dezelfde datum in de volgende maanden geïncasseerd."
+          },
+          "delivery": {
+            "label": "Levering:",
+            "content": "Wij streven ernaar maandelijkse selecties op tijd te leveren. Vertragingen door externe factoren kunnen niet aan ons worden toegerekend."
+          }
+        },
+        "delivery": {
+          "title": "6. Levering en verzending",
+          "content": "Leveringen vinden plaats in België. Levertijden zijn indicatief en niet bindend. Wij zijn niet aansprakelijk voor vertragingen buiten onze controle."
+        },
+        "withdrawal": {
+          "title": "7. Herroepingsrecht",
+          "content": "Particuliere klanten hebben het recht om binnen 14 dagen na ontvangst van de producten de overeenkomst te herroepen, zonder opgave van redenen. Retournering moet in originele staat en verpakking plaatsvinden."
+        },
+        "liability": {
+          "title": "8. Aansprakelijkheid",
+          "content": "Onze aansprakelijkheid is beperkt tot de factuurwaarde van de betreffende diensten of producten. Wij zijn niet aansprakelijk voor indirecte schade, gevolgschade of gederfde winst."
+        },
+        "contact": {
+          "title": "9. Contact",
+          "content": "Heeft u vragen over onze algemene voorwaarden? Neem gerust contact met ons op."
+        }
+      }
+    },
+    "cookies": {
+      "title": "Cookiebeleid",
+      "lastUpdate": "Laatst bijgewerkt: November 2025",
+      "metaDescription": "Cookiebeleid van Sommelier Quintelier - Informatie over het gebruik van cookies op onze website.",
+      "sections": {
+        "what": {
+          "title": "1. Wat zijn cookies?",
+          "content": "Cookies zijn kleine tekstbestanden die op uw computer of mobiel apparaat worden geplaatst wanneer u onze website bezoekt. Cookies zorgen ervoor dat de website goed werkt en onthouden uw voorkeuren voor toekomstige bezoeken."
+        },
+        "why": {
+          "title": "2. Waarom gebruiken wij cookies?",
+          "intro": "Wij gebruiken cookies voor de volgende doeleinden:",
+          "items": {
+            "functional": "Het laten functioneren van de website (functionele cookies)",
+            "analytics": "Het analyseren van websitebezoeken en gebruikersgedrag (analytische cookies)",
+            "experience": "Het verbeteren van de gebruikerservaring",
+            "language": "Het onthouden van uw taalvoorkeur",
+            "preferences": "Het onthouden van uw cookievoorkeuren"
+          }
+        },
+        "types": {
+          "title": "3. Welke cookies gebruiken wij?",
+          "necessary": {
+            "title": "3.1 Noodzakelijke cookies",
+            "content": "Deze cookies zijn essentieel voor het functioneren van de website. Zonder deze cookies kan de website niet goed werken."
+          },
+          "functional": {
+            "title": "3.2 Functionele cookies",
+            "content": "Deze cookies zorgen ervoor dat de website goed functioneert en onthouden uw voorkeuren."
+          },
+          "analytics": {
+            "title": "3.3 Analytische cookies",
+            "content": "Deze cookies helpen ons te begrijpen hoe bezoekers de website gebruiken. De informatie wordt anoniem verzameld."
+          },
+          "marketing": {
+            "title": "3.4 Marketing cookies",
+            "content": "Deze cookies worden gebruikt om advertenties relevanter te maken voor u en uw interesses."
+          }
+        },
+        "thirdParty": {
+          "title": "4. Cookies van derden",
+          "intro": "Naast onze eigen cookies plaatsen ook derden cookies:",
+          "items": {
+            "analytics": "Voor het analyseren van websitebezoeken",
+            "payment": "Voor veilige betalingsverwerking en abonnementsbeheer",
+            "email": "Voor e-mailtracking"
+          }
+        },
+        "manage": {
+          "title": "5. Cookies beheren",
+          "content": "U kunt cookies op elk moment verwijderen via uw browserinstellingen. U kunt uw browser ook instellen om cookies automatisch te blokkeren of u te waarschuwen wanneer een cookie wordt geplaatst."
+        },
+        "contact": {
+          "title": "6. Contact",
+          "content": "Heeft u vragen over ons cookiebeleid? Neem gerust contact met ons op."
+        }
+      }
+    }
+  }
+}

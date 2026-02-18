@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="apple-touch-icon" href="/favicon.png" />
+    <meta name="theme-color" content="#dacab4" />
+    
+    <!-- Optimized Google Fonts loading -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link 
+      rel="preload" 
+      as="style"
+      href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Inter:wght@300;400;500;600;700&display=swap"
+    >
+    <link 
+      href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Inter:wght@300;400;500;600;700&display=swap" 
+      rel="stylesheet"
+      media="print"
+      onload="this.media='all'"
+    >
+    <style>
+      /* Critical CSS for instant hero render (prevent LCP delay) */
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      html, body {
+        height: 100%;
+        font-family: 'Fraunces', serif;
+        background-color: #fafaf9;
+      }
+      #root {
+        min-height: 100%;
+      }
+      /* Hero section critical styles */
+      .hero-critical {
+        position: relative;
+        height: 100vh;
+        width: 100%;
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .hero-video-container {
+        position: absolute;
+        inset: 0;
+      }
+      .hero-video, .hero-poster {
+        position: absolute;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+      .hero-overlay {
+        position: absolute;
+        inset: 0;
+        background: linear-gradient(to bottom, rgba(0,0,0,0.6), rgba(0,0,0,0.4), rgba(0,0,0,0.6));
+      }
+      .hero-content {
+        position: relative;
+        z-index: 10;
+        max-width: 1280px;
+        margin: 0 auto;
+        padding: 0 1.5rem;
+        color: white;
+      }
+      .hero-h1 {
+        font-size: clamp(2rem, 5vw, 4rem);
+        font-weight: 100;
+        line-height: 1.2;
+        margin-bottom: 1rem;
+      }
+      /* Ensure fonts load with fallback */
+      @font-face {
+        font-family: 'Fraunces';
+        font-display: swap;
+      }
+    </style>
+    <noscript>
+      <link 
+        href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Inter:wght@300;400;500;600;700&display=swap" 
+        rel="stylesheet"
+      >
+    </noscript>
+    
+    <!-- Performance: Preconnect to external services -->
+    <link rel="dns-prefetch" href="https://js-eu1.hs-scripts.com">
+    
+    <!-- Preload critical Fraunces font for LCP improvement -->
+    <link rel="preload" href="https://fonts.gstatic.com/s/fraunces/v31/6NUu8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib1603gg7S2nfgRYIctxqjDvTShUtWNg.woff2" as="font" type="font/woff2" crossorigin>
+    
+    <!-- Preload hero LCP image with high priority -->
+    <link rel="preload" href="/attached_assets/stock_images/luxury_wine_pouring__3887e26c.jpg" as="image" fetchpriority="high">
+    
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    
+    <!-- Start of HubSpot Embed Code -->
+    <script type="text/javascript" id="hs-script-loader" async defer src="//js-eu1.hs-scripts.com/147155917.js"></script>
+    <!-- End of HubSpot Embed Code -->
+  </body>
+</html>

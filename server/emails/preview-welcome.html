@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welkom bij Sommelier.quintelier - Preview</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            color: #333333;
+            background-color: #f5f5f5;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #c7b79e 0%, #a89885 100%);
+            padding: 40px 20px;
+            text-align: center;
+        }
+        
+        .header img {
+            max-width: 150px;
+            height: auto;
+            margin-bottom: 20px;
+            filter: brightness(0) invert(1);
+        }
+        
+        .header h1 {
+            color: #ffffff;
+            font-size: 28px;
+            font-weight: 300;
+            margin: 0;
+            letter-spacing: 0.5px;
+        }
+        
+        .content {
+            padding: 40px 30px;
+        }
+        
+        .greeting {
+            font-size: 18px;
+            color: #2c2c2c;
+            margin-bottom: 20px;
+            font-weight: 500;
+        }
+        
+        .intro {
+            font-size: 16px;
+            color: #555555;
+            line-height: 1.8;
+            margin-bottom: 30px;
+        }
+        
+        .section-title {
+            font-size: 22px;
+            color: #c7b79e;
+            font-weight: 400;
+            margin: 40px 0 20px 0;
+            border-bottom: 2px solid #c7b79e;
+            padding-bottom: 10px;
+        }
+        
+        .blog-posts {
+            margin: 30px 0;
+        }
+        
+        .blog-post {
+            margin-bottom: 30px;
+            border-left: 3px solid #c7b79e;
+            padding-left: 20px;
+            transition: all 0.3s ease;
+        }
+        
+        .blog-post:hover {
+            border-left-color: #a89885;
+        }
+        
+        .blog-post h3 {
+            font-size: 18px;
+            color: #2c2c2c;
+            margin-bottom: 8px;
+            font-weight: 500;
+        }
+        
+        .blog-post p {
+            font-size: 14px;
+            color: #666666;
+            margin-bottom: 10px;
+            line-height: 1.6;
+        }
+        
+        .blog-post a {
+            color: #c7b79e;
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 14px;
+        }
+        
+        .blog-post a:hover {
+            text-decoration: underline;
+            color: #a89885;
+        }
+        
+        .services {
+            background-color: #faf9f7;
+            padding: 25px;
+            border-radius: 8px;
+            margin: 30px 0;
+        }
+        
+        .service-item {
+            margin-bottom: 15px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        
+        .service-item:last-child {
+            margin-bottom: 0;
+            padding-bottom: 0;
+            border-bottom: none;
+        }
+        
+        .service-item h4 {
+            font-size: 16px;
+            color: #2c2c2c;
+            margin-bottom: 5px;
+            font-weight: 500;
+        }
+        
+        .service-item p {
+            font-size: 14px;
+            color: #666666;
+            margin: 0;
+            line-height: 1.5;
+        }
+        
+        .cta-button {
+            display: inline-block;
+            background-color: #c7b79e;
+            color: #ffffff !important;
+            padding: 14px 30px;
+            text-decoration: none;
+            border-radius: 4px;
+            font-weight: 500;
+            margin: 20px 0;
+            text-align: center;
+            transition: background-color 0.3s ease;
+        }
+        
+        .cta-button:hover {
+            background-color: #a89885;
+        }
+        
+        .footer {
+            background-color: #2c2c2c;
+            color: #ffffff;
+            padding: 30px 20px;
+            text-align: center;
+            font-size: 12px;
+        }
+        
+        .footer a {
+            color: #c7b79e;
+            text-decoration: none;
+        }
+        
+        .footer a:hover {
+            text-decoration: underline;
+        }
+        
+        .social-links {
+            margin: 20px 0;
+        }
+        
+        .social-links a {
+            display: inline-block;
+            margin: 0 10px;
+            color: #c7b79e;
+            text-decoration: none;
+        }
+        
+        .signature {
+            font-style: italic;
+            color: #666666;
+            margin-top: 15px;
+        }
+        
+        @media only screen and (max-width: 600px) {
+            body {
+                padding: 0;
+            }
+            
+            .content {
+                padding: 30px 20px;
+            }
+            
+            .header h1 {
+                font-size: 24px;
+            }
+            
+            .section-title {
+                font-size: 20px;
+            }
+            
+            .services {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <svg width="150" height="150" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+                <text x="100" y="100" text-anchor="middle" dominant-baseline="middle" 
+                      font-family="serif" font-size="80" fill="#ffffff" font-weight="300">S·Q</text>
+            </svg>
+            <h1>Welkom bij onze wijnwereld</h1>
+        </div>
+        
+        <!-- Content -->
+        <div class="content">
+            <p class="greeting">Beste wijnliefhebber,</p>
+            
+            <p class="intro">
+                Hartelijk dank voor je inschrijving op onze nieuwsbrief! Je bent nu onderdeel van een exclusieve gemeenschap 
+                van wijnliefhebbers. Elke maand ontvang je de beste wijntips, unieke verhalen over druivenrassen en 
+                exclusieve aanbiedingen voor onze wijnabonnementen.
+            </p>
+            
+            <!-- Blog Posts Section -->
+            <h2 class="section-title">📚 Recente artikelen</h2>
+            <div class="blog-posts">
+                <div class="blog-post">
+                    <h3>Riesling</h3>
+                    <p>Ontdek de veelzijdige witte druif die gedijt in koele klimaten en varieert van droog en fris tot rijk en zoet.</p>
+                    <a href="https://sommelierquintelier.com/blog/riesling">Lees meer →</a>
+                </div>
+                
+                <div class="blog-post">
+                    <h3>Merlot</h3>
+                    <p>Leer alles over deze populaire rode druif met zijn zachte tannines en fruitige aroma's van pruimen en kersen.</p>
+                    <a href="https://sommelierquintelier.com/blog/merlot">Lees meer →</a>
+                </div>
+                
+                <div class="blog-post">
+                    <h3>Cabernet Sauvignon</h3>
+                    <p>Verken de koning der rode wijnen met zijn krachtige structuur en lange rijpingspotentieel.</p>
+                    <a href="https://sommelierquintelier.com/blog/cabernet-sauvignon">Lees meer →</a>
+                </div>
+            </div>
+            
+            <!-- Services Highlight -->
+            <h2 class="section-title">🍷 Onze diensten</h2>
+            <div class="services">
+                <div class="service-item">
+                    <h4>Wijnabonnementen</h4>
+                    <p>Van Selection tot Prestige - elk kwartaal zorgvuldig geselecteerde wijnen aan huis geleverd.</p>
+                </div>
+                
+                <div class="service-item">
+                    <h4>Privé Proeverijen</h4>
+                    <p>Exclusieve wijnproeverijen op maat, perfect voor bedrijfsevents of speciale gelegenheden.</p>
+                </div>
+                
+                <div class="service-item">
+                    <h4>Persoonlijke Sommelierservice</h4>
+                    <p>Deskundig advies bij de samenstelling van uw wijnkelder of het perfecte wijn-spijspairing.</p>
+                </div>
+            </div>
+            
+            <!-- Call to Action -->
+            <center>
+                <a href="https://sommelierquintelier.com" class="cta-button">Ontdek ons volledige aanbod</a>
+            </center>
+            
+            <p style="margin-top: 30px; font-size: 14px; color: #666666;">
+                Heb je vragen of wil je meer weten over een van onze diensten? Aarzel niet om contact met me op te nemen.
+            </p>
+            <p class="signature">
+                Proost!<br>
+                Yentl Quintelier<br>
+                <span style="font-size: 12px; font-style: normal;">Gediplomeerd Sommelier</span>
+            </p>
+        </div>
+        
+        <!-- Footer -->
+        <div class="footer">
+            <p style="font-weight: 500;">Sommelier.quintelier</p>
+            <p style="margin: 10px 0;">België</p>
+            
+            <div class="social-links">
+                <a href="https://instagram.com/sommelier.quintelier">Instagram</a> |
+                <a href="https://linkedin.com/in/yentlquintelier">LinkedIn</a> |
+                <a href="https://facebook.com/sommelier.quintelier">Facebook</a>
+            </div>
+            
+            <p style="margin-top: 20px; font-size: 11px; color: #999999;">
+                Je ontvangt deze email omdat je je hebt ingeschreven voor onze nieuwsbrief.<br>
+                Geen interesse meer? <a href="#">Klik hier om je uit te schrijven</a>
+            </p>
+            
+            <p style="margin-top: 15px; font-size: 10px; color: #777777;">
+                © 2024 Sommelier.quintelier - Alle rechten voorbehouden
+            </p>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,795 @@
+{
+  "announcement": {
+    "message": "This website is currently under construction. Prices and labels may differ from reality."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "blog": "Blog",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "cart": "Cart"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "description": "Enter your details to complete your order",
+    "processing": "Processing...",
+    "completePayment": "Proceed to Payment",
+    "success": "Payment Successful",
+    "successMessage": "Thank you for your order!",
+    "error": "Payment Failed",
+    "errorMessage": "Something went wrong. Please try again.",
+    "mollieRedirectInfo": "You will be redirected to Mollie to securely complete your payment. After payment, you will automatically return to our website.",
+    "extras": "Extras",
+    "extraChampagne": "Bottle Champagne",
+    "extraDessert": "Bottle Dessert Wine",
+    "ageConfirmation": "I confirm that I am 18 years or older",
+    "contactInformation": "Contact Information",
+    "deliveryAddress": "Delivery Address",
+    "optional": "optional",
+    "nameLabel": "Name",
+    "namePlaceholder": "Full name",
+    "nameRequired": "Name is required",
+    "emailLabel": "Email address",
+    "emailPlaceholder": "your@email.com",
+    "emailInvalid": "Invalid email address",
+    "phoneLabel": "Phone number",
+    "phonePlaceholder": "+32 xxx xx xx xx",
+    "addressLabel": "Street and number",
+    "addressPlaceholder": "Street name 123",
+    "addressRequired": "Address is required",
+    "cityLabel": "City",
+    "cityPlaceholder": "Brussels",
+    "cityRequired": "City is required",
+    "postalCodeLabel": "Postal code",
+    "postalCodePlaceholder": "1000",
+    "postalCodeRequired": "Postal code is required",
+    "countryLabel": "Country",
+    "countryPlaceholder": "Select country",
+    "countryRequired": "Country is required",
+    "ageConfirmationRequired": "You must confirm you are 18+",
+    "recurringBilling": "Monthly Subscription",
+    "recurringDescription": "This is a recurring subscription that automatically renews monthly. You can cancel at any time."
+  },
+  "ageGate": {
+    "title": "Welcome to Sommelier Quintelier",
+    "subtitle": "Age Verification Required",
+    "description": "This website contains information about alcoholic beverages. Please enter your date of birth to confirm that you are at least 18 years old.",
+    "dayLabel": "Day",
+    "monthLabel": "Month",
+    "yearLabel": "Year",
+    "dayPlaceholder": "DD",
+    "monthPlaceholder": "MM",
+    "yearPlaceholder": "YYYY",
+    "confirmButton": "Confirm Age",
+    "underageError": "You must be at least 18 years old to visit this website.",
+    "invalidDateError": "Please enter a valid date of birth.",
+    "legalDrinkingAge": "The legal minimum age for alcohol consumption in Belgium is 18 years.",
+    "responsibleConsumption": "Drink responsibly. Alcohol is harmful to your health.",
+    "privacyNotice": "Your date of birth will not be stored. This verification is only used to check your age."
+  },
+  "thankYou": {
+    "title": "Thank You for Your Order",
+    "subtitle": "Your payment has been successfully processed",
+    "confirmation": "We have received your order and it will be processed shortly.",
+    "emailSent": "A confirmation email has been sent to your email address.",
+    "nextStepsTitle": "What happens next?",
+    "step1": "You will receive a confirmation email within 24 hours",
+    "step2": "We will carefully curate your wine selection",
+    "step3": "Your wine subscription will be shipped within 3-5 business days",
+    "backToHome": "Back to home",
+    "exploreBlog": "Explore our blog",
+    "payment": "Payment",
+    "status": "Status",
+    "completed": "Completed"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "subtitle": "The page you are looking for does not exist or has been moved",
+    "message": "It seems this bottle is not in our cellar. Let us bring you back to our collection.",
+    "backToHome": "Back to home",
+    "contactUs": "Contact us",
+    "errorCode": "Error code: 404"
+  },
+  "hero": {
+    "title": "Private Sommelier Belgium",
+    "subtitle": "Your Private Sommelier for Exclusive Wine Experiences",
+    "tagline": "Wine is an art of experience, refinement and emotion.",
+    "cta": "Contact Us",
+    "imageAlt": "Private sommelier pouring red wine during exclusive wine tasting in Belgium"
+  },
+  "seo": {
+    "title": "Private Sommelier Belgium | Sommelier Quintelier",
+    "description": "Looking for a private sommelier in Belgium? Yentl Quintelier offers exclusive wine experiences, tastings and tailored wine advice. Sommelier of the Year 2022."
+  },
+  "intro": {
+    "opening": "Wine is an art of experience, refinement and emotion.",
+    "paragraph1": "As your private sommelier, I create exclusive wine experiences for connoisseurs, restaurants and private events. I offer tailored wine advice, tastings and cellar management, with an eye for harmony between taste, style and identity.",
+    "paragraph2": "Every collaboration starts from your story, with wine as the common thread through taste, style and emotion. As a private sommelier in Belgium, I guarantee personal guidance.",
+    "paragraph3": "From cellar to glass, from advice to experience – as your private sommelier I bring the essence of wine to life in its most refined form."
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Professional wine services tailored to you, from consultancy to exclusive tastings",
+    "heroImageAlt": "Vineyard landscape with rolling hills of grapevines",
+    "seo": {
+      "title": "Services | Private Sommelier Belgium",
+      "description": "Professional wine services by your private sommelier: wine consultancy, tastings, custom wine lists and cellar management in Belgium.",
+      "keywords": "private sommelier services, wine consultancy, wine tasting, wine list, cellar management Belgium"
+    },
+    "consultancy": {
+      "title": "Wine Consultancy",
+      "description": "Professional advice for your perfect wine selection for any occasion",
+      "imageAlt": "Professional wine consultancy session with sommelier",
+      "subtitle": "From selection to strategy: tailored wine advice.",
+      "intro": "As a freelance sommelier, I guide both restaurants and private clients in selecting, purchasing and managing wines. Together we look for the perfect balance between quality, style and budget, with attention to identity and experience. Every client receives personal advice, not a standard list, but a wine selection that matches your taste, business or concept. From cellar to list, from glass to experience: tailored wine advice, with passion and precision.",
+      "keyTakeaways": [
+        "Personal advice tailored to your identity and concept",
+        "Perfect balance between quality, style and budget",
+        "Guidance for restaurants and private clients",
+        "From selection to purchase and management"
+      ],
+      "collectionsTitle": "Exclusive Wine Collections",
+      "bourgogneTitle": "Top from Burgundy",
+      "bourgogneDescription": "A selection of the most prestigious wines from the Burgundy region, carefully chosen for their exceptional quality and character.",
+      "drcTitle": "Domaine de la Romanée-Conti",
+      "drcDescription": "The most sought-after wines in the world. A collection of legendary Grand Cru wines representing the pinnacle of refinement and elegance."
+    },
+    "cellar": {
+      "title": "Management and Maintenance of your Private Wine Cellar",
+      "shortTitle": "Private Wine Cellar",
+      "description": "Management and maintenance of your personal wine collection",
+      "imageAlt": "Private wine cellar with carefully stored bottles",
+      "subtitle": "A worry-free wine cellar, perfectly organized.",
+      "intro": "Whether you are a beginning collector or have an extensive collection, a well-organized cellar is essential. I offer professional advice, inventory and maintenance of private wine cellars: from temperature control and storage advice to purchase and rotation planning. This way your collection not only stays in perfect condition, but is also ready to enjoy at any moment.",
+      "keyTakeaways": [
+        "Professional inventory and organization",
+        "Temperature control and storage advice",
+        "Purchase and rotation planning",
+        "For both beginning and experienced collectors"
+      ]
+    },
+    "tasting": {
+      "title": "Wine Tastings",
+      "description": "Exclusive tastings tailored to your event",
+      "imageAlt": "Wine tasting event with expert sommelier guidance",
+      "subtitle": "Discover, taste and learn with a sommelier by your side.",
+      "intro": "A tasting is more than just tasting wine, it is an experience, a moment of discovery. During my personalized wine tastings I take you through different styles, regions and stories. Each session is adapted to your level of knowledge, interests or theme (region, grape, food pairing...). Ideal for companies, groups, or private events looking for an original and atmospheric experience.",
+      "keyTakeaways": [
+        "Personalized sessions tailored to your level",
+        "Thematic tastings of your choice",
+        "Ideal for companies and private events",
+        "An experience, not just a tasting"
+      ]
+    },
+    "menu": {
+      "title": "Custom Wine List",
+      "description": "Curated wine lists for restaurants and hotels",
+      "imageAlt": "Elegant restaurant wine service",
+      "subtitle": "A wine list that fits your cuisine and concept.",
+      "intro": "A strong wine list is more than a list of bottles, it is an extension of your story. I help restaurants and hospitality businesses in building or refining their wine list, with focus on harmony with dishes, seasonal influences and margin optimization. Each selection is composed tailored to your business, target audience and philosophy.",
+      "keyTakeaways": [
+        "Harmony with your dishes and concept",
+        "Seasonal influences and margin optimization",
+        "Tailored to your target audience and philosophy",
+        "From building to refinement"
+      ]
+    },
+    "subscription": {
+      "title": "Wine Subscriptions",
+      "description": "Carefully curated, elegantly packaged",
+      "subtitle": "Every bottle tells a story: from terroir to craftsmanship to passion",
+      "body": "Every month you can enjoy a new selection of wines chosen with care, knowledge and finesse by our sommelier. Our wine subscriptions bring the world of wine to you. Carefully curated, elegantly packaged, and accompanied by inspiring tasting notes and pairing tips.",
+      "flexibility": "Flexible enjoyment",
+      "flexibilityText": "Our subscriptions are available monthly. You can easily pause, adjust or cancel them whenever you want. For those who wish to discover first, the packages are also available one-time.",
+      "howItWorks": "How it works",
+      "step1Title": "Choose your package",
+      "step1Description": "Select the subscription that fits your taste",
+      "step2Title": "Monthly delivery",
+      "step2Description": "Receive your wine selection directly at home",
+      "step3Title": "Discover & enjoy",
+      "step3Description": "Taste with the included tasting notes and pairings",
+      "bottlesCount": "bottles",
+      "featured": {
+        "title": "Expérience Prestige",
+        "tagline": "The top selection",
+        "description": "Three or six exceptional wines, directly from exclusive estates.",
+        "priceFrom": "From",
+        "price3": "€250",
+        "price6": "€480",
+        "perMonth": "/month",
+        "benefits": [
+          "Exceptional wines from exclusive estates",
+          "Including tasting notes and pairings",
+          "Monthly cancellable"
+        ],
+        "cta": "Discover more",
+        "bottles": "3 or 6 bottles per month"
+      },
+      "tiers": {
+        "selection": {
+          "name": "Sélection Élégance",
+          "tagline": "For those who love elegance in simplicity",
+          "description": "A stylish introduction to the world of wine. Three or six carefully selected bottles per month, each with character, balance and refinement.",
+          "price3": "€55",
+          "price6": "€100",
+          "bottles3": "3 bottles",
+          "bottles6": "6 bottles",
+          "content3": "1 crisp white + 1 full white + 1 red",
+          "content6": "2 crisp white + 2 full white + 2 red",
+          "features": [
+            "Character, balance and refinement",
+            "Including tasting notes",
+            "Suggestion for perfect food pairing",
+            "Monthly cancellable"
+          ],
+          "extras": [
+            "+ 1 Bottle Champagne: €20",
+            "+ 1 Bottle dessert wine: €20"
+          ]
+        },
+        "cuvee": {
+          "name": "Cuvée Curieuse",
+          "tagline": "For the curious enthusiast with refined taste",
+          "description": "A step further in the world of flavor. Three or six expressive wines that together form a theme, region, grape or style.",
+          "price3": "€110",
+          "price6": "€200",
+          "bottles3": "3 bottles",
+          "bottles6": "6 bottles",
+          "content3": "1 crisp white + 1 full white + 1 red",
+          "content6": "2 crisp white + 2 full white + 2 red",
+          "features": [
+            "Expressive wines with theme",
+            "Including tasting notes",
+            "Suggestion for perfect food pairing",
+            "Monthly cancellable"
+          ],
+          "extras": [
+            "+ 1 Bottle Champagne: €35",
+            "+ 1 Bottle dessert wine: €35"
+          ]
+        },
+        "prestige": {
+          "name": "Expérience Prestige",
+          "tagline": "For those who want to experience the essence of wine at the highest level",
+          "description": "The top selection. Three or six exceptional wines, directly from exclusive estates, each with its own character and class. A luxurious experience, perfect for connoisseurs and collectors.",
+          "price3": "€250",
+          "price6": "€480",
+          "bottles3": "3 bottles",
+          "bottles6": "6 bottles",
+          "content3": "1 crisp white + 1 full white + 1 red",
+          "content6": "2 crisp white + 2 full white + 2 red",
+          "features": [
+            "Exceptional wines from exclusive estates",
+            "Including tasting notes",
+            "Suggestion for perfect food pairing",
+            "Monthly cancellable"
+          ],
+          "extras": [
+            "+ 1 Bottle Champagne: €85",
+            "+ 1 Bottle dessert wine: €85"
+          ]
+        },
+        "champagne": {
+          "name": "Champagne Signature",
+          "tagline": "For those who see champagne not just as a celebration, but as an art form",
+          "description": "The essence of refinement, captured in bubbles. Discover an exclusive selection of champagnes from independent houses and renowned Maisons. Each with its own character, finesse and signature.",
+          "price3": "€150",
+          "price6": "€275",
+          "bottles3": "3 bottles",
+          "bottles6": "6 bottles",
+          "content3": "1 bottle entry + 1 bottle mid-range + 1 bottle prestige",
+          "content6": "2 bottles entry + 2 bottles mid-range + 2 bottles prestige",
+          "features": [
+            "Champagnes with personality",
+            "Passion, art and terroir",
+            "Harmonious balance between elegance and complexity",
+            "Our sommelier selects with care"
+          ]
+        },
+        "custom": {
+          "name": "Custom Package",
+          "tagline": "Craftsmanship with character, delivered with elegance",
+          "description": "For special occasions, corporate gifts or private events, we offer custom wine packages. Our sommelier creates a selection that perfectly matches your wishes, taste profile and budget.",
+          "price": "Custom",
+          "bottles": "Custom",
+          "features": [
+            "Fully customized",
+            "Perfect for special occasions",
+            "Corporate gifts and client gifts",
+            "Carefully curated and packaged"
+          ]
+        }
+      },
+      "cta": "Choose this package",
+      "perMonth": "/month",
+      "popularBadge": "Popular",
+      "options": "Options",
+      "content": "Content",
+      "customPackageForm": {
+        "title": "Custom Package - Request Form",
+        "description": "Tell us more about your wishes, so we can create the perfect wine package for you.",
+        "champagneLabel": "Would you like Champagne?",
+        "champagneYes": "Yes",
+        "champagneNo": "No",
+        "champagneQuantity": "How many bottles of Champagne?",
+        "whiteWineLabel": "How many bottles of white wine would you like?",
+        "redWineLabel": "How many bottles of red wine would you like?",
+        "dessertWineLabel": "Would you like a dessert wine?",
+        "dessertWineYes": "Yes",
+        "dessertWineNo": "No",
+        "dessertWineQuantity": "How many bottles of dessert wine?",
+        "budgetLabel": "What is your budget for this personalized wine package?",
+        "budgetOptions": {
+          "0-50": "€0 - €50",
+          "50-100": "€50 - €100",
+          "100-150": "€100 - €150",
+          "150-250": "€150 - €250",
+          "250-500": "€250 - €500",
+          "500+": "€500+"
+        },
+        "wishesLabel": "Do you have any other wishes or questions?",
+        "wishesPlaceholder": "Describe your specific wishes, preferences, event or questions...",
+        "emailLabel": "Your email address",
+        "emailPlaceholder": "name@example.com",
+        "nameLabel": "Your name",
+        "namePlaceholder": "Your full name",
+        "phoneLabel": "Phone number (optional)",
+        "phonePlaceholder": "+32 XXX XX XX XX",
+        "submit": "Submit request",
+        "cancel": "Cancel",
+        "sending": "Sending...",
+        "success": "Your request has been successfully submitted!",
+        "successMessage": "We will contact you as soon as possible to discuss your personalized wine package.",
+        "error": "Something went wrong",
+        "errorMessage": "Please try again later or contact us directly.",
+        "bottles": "bottles",
+        "selectBudget": "Select your budget",
+        "nameRequired": "Name is required",
+        "emailInvalid": "Invalid email address",
+        "budgetRequired": "Select a budget",
+        "champagneQuantityRequired": "Enter the number of Champagne bottles",
+        "dessertWineQuantityRequired": "Enter the number of dessert wine bottles"
+      }
+    },
+    "private": {
+      "title": "Private Sommelier",
+      "description": "Personal guidance for all your wine needs",
+      "imageAlt": "Private sommelier providing personalized wine service",
+      "subtitle": "A sommelier, exclusively for your event, lunch or dinner.",
+      "intro": "Want to give a private dinner or event that extra touch? As a private sommelier I take care of the selection, service and presentation of wines at home or on location. I ensure the perfect pairing with your menu, tell the story behind each wine and create a relaxed, professional atmosphere at the table. Ideal for home dinners, weddings, corporate events or exclusive parties.",
+      "keyTakeaways": [
+        "Exclusive service at home or on location",
+        "Perfect pairing with your menu",
+        "Professional atmosphere at the table",
+        "For home dinners, weddings and corporate events"
+      ],
+      "atmosphereTitle": "A Refined Experience",
+      "atmosphereDescription": "From intimate private dinners to grand events, I create the perfect wine experience in any setting. With an eye for detail and a passion for service, I ensure that every bottle tells a story and every toast becomes a memory."
+    },
+    "tastingBody": "Is a special occasion coming up and do you want to surprise with a unique wine experience? I organize exclusive wine tastings perfectly tailored to your wishes and budget. Whether it's an intimate gathering or a larger event, I ensure an unforgettable taste experience.",
+    "menuBody": "As a restaurant owner, you want to surprise your guests with the perfect wine list. I help you create a wine list that perfectly matches your menu and concept. From beginning restaurants to established names, I make sure everything fits.",
+    "moreInfo": "More info"
+  },
+  "about": {
+    "title": "About Yentl Quintelier",
+    "description": "Wine is more than a passion for me, it is a life story in aroma, taste and emotion.",
+    "seo": {
+      "title": "About Yentl Quintelier | Private Sommelier Belgium",
+      "description": "Meet Yentl Quintelier, Sommelier of the Year Belgium 2022. Discover the story behind your private sommelier and his passion for wine.",
+      "keywords": "private sommelier, sommelier Belgium, Yentl Quintelier, sommelier of the year, wine expert"
+    },
+    "cta": "Read more",
+    "intro": "Wine is more than a passion for me",
+    "paragraph1": "I am Yentl Quintelier, sommelier with heart and soul. My journey began at a young age, with a dream of becoming a chef. However, during my training at Hotel School Stella Matutina, I discovered another world: that of wine. The finesse, the tradition, the story behind every bottle, it captivated me completely.",
+    "paragraph2": "After specializing in restaurant management and beverage knowledge - awarded the prize for best student of the year - I gained experience at some of Belgium's finest restaurants: Hertog Jan, Le Château du Mylord, La Table de Maxime and Nuance, where I was responsible for wine pairing, hospitality and cellar management as a sommelier.",
+    "paragraph3": "In 2022, I was named Sommelier of the Year Belgium, a recognition that has further fueled my passion.",
+    "paragraph4": "Today I work as a freelance sommelier on an independent basis. I offer a wide range of services: from tastings and wine advice to the maintenance and management of private wine cellars. Whether it's a glass that perfectly complements a dish or a cellar that tells a story, I believe wine should always be an experience.",
+    "award": "Sommelier of the Year Belgium 2022",
+    "featured": "Featured in Press",
+    "articleTitle": "Yentl Quintelier: \"I wanted to work in at least a two-star restaurant\"",
+    "articleDescription": "A glimpse into the L'Avenir article about Yentl Quintelier, one of the new sommeliers of the year. Read more about their passion for wine and their ambitions."
+  },
+  "newsletter": {
+    "title": "Stay Informed",
+    "description": "Sign up for exclusive tips, news and offers",
+    "placeholder": "Your email address",
+    "cta": "Subscribe",
+    "privacy": "We respect your privacy and do not spam",
+    "subscribing": "Subscribing...",
+    "validation": {
+      "emailInvalid": "Invalid email address"
+    },
+    "success": {
+      "title": "Successfully subscribed!",
+      "message": "Thank you for subscribing. You will receive our newsletter soon."
+    },
+    "error": {
+      "title": "Error subscribing",
+      "message": "Something went wrong. Please try again later.",
+      "alreadySubscribed": "This email address is already subscribed to our newsletter"
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "seo": {
+      "title": "Contact | Private Sommelier Belgium",
+      "description": "Contact your private sommelier in Belgium. Request advice on wine tastings, consultancy or cellar management.",
+      "keywords": "private sommelier contact, sommelier Belgium, wine advice, contact sommelier"
+    },
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "submit": "Send",
+    "sending": "Sending...",
+    "info": "Do you have questions or need more information? Feel free to contact us.",
+    "location": "Location",
+    "emailLabel": "Email",
+    "validation": {
+      "nameRequired": "Name is required (minimum 2 characters)",
+      "emailInvalid": "Invalid email address",
+      "messageRequired": "Message is required (minimum 10 characters)"
+    },
+    "success": {
+      "title": "Message sent!",
+      "message": "Thank you for your message. We will contact you as soon as possible."
+    },
+    "error": {
+      "title": "Error sending message",
+      "message": "Something went wrong. Please try again later."
+    }
+  },
+  "footer": {
+    "tagline": "Fine Wine Adventures",
+    "location": "Belgium",
+    "rights": "All rights reserved",
+    "brandDescription": "Fine Wine Adventures by Yentl Quintelier. Discover the world of wine with expert guidance.",
+    "contentTitle": "Content",
+    "servicesTitle": "Services",
+    "contactTitle": "Contact",
+    "newsletterTitle": "Newsletter",
+    "newsletterDescription": "Stay updated on exclusive wine experiences and offers",
+    "emailPlaceholder": "Your email address",
+    "subscribe": "Subscribe",
+    "home": "Home",
+    "about": "About",
+    "blog": "Blog",
+    "gallery": "Gallery",
+    "contactPage": "Contact",
+    "subscriptions": "Subscriptions",
+    "tastings": "Wine Tastings",
+    "menu": "Custom Wine List",
+    "consultancy": "Wine Consultancy",
+    "private": "Private Sommelier",
+    "cellar": "Wine Cellar Management",
+    "email": "info@yentlquintelier.com",
+    "locationText": "East Flanders, Belgium",
+    "copyright": "Sommelier.Quintelier - All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "cookies": "Cookies",
+    "cancelSubscription": "Cancel Subscription",
+    "madeBy": "Made with passion by"
+  },
+  "cancelSubscription": {
+    "pageTitle": "Cancel Subscription",
+    "pageDescription": "Cancel your wine subscription",
+    "title": "Cancel Subscription",
+    "description": "Enter your email address to receive a cancellation link. This link is valid for 24 hours.",
+    "emailLabel": "Email address",
+    "emailPlaceholder": "your@email.com",
+    "emailInvalid": "Invalid email address",
+    "important": "Important",
+    "importantNote": "You will receive a secure link via email to confirm your cancellation. This link is valid for 24 hours.",
+    "processing": "Processing...",
+    "sendLink": "Send cancellation link",
+    "requestSent": "Link sent",
+    "checkEmail": "Check your email for the cancellation link",
+    "error": "Error",
+    "errorMessage": "Something went wrong. Please try again.",
+    "successTitle": "Link sent!",
+    "successMessage": "We have sent a secure cancellation link to your email.",
+    "linkExpiry": "This link is valid for 24 hours.",
+    "confirmTitle": "Confirm cancellation",
+    "confirmDescription": "Confirm the cancellation of your wine subscription",
+    "confirmWarning": "This action cannot be undone",
+    "confirmWarningTitle": "Warning",
+    "confirmPoint1": "Your subscription will be cancelled immediately",
+    "confirmPoint2": "No further payments will be charged",
+    "confirmPoint3": "You retain access for the current month",
+    "confirmButton": "Yes, cancel",
+    "keepSubscription": "Keep subscription",
+    "noToken": "Invalid or missing cancellation link",
+    "cancelSuccess": "Subscription cancelled",
+    "cancelSuccessMessage": "Your wine subscription has been successfully cancelled.",
+    "cancelSuccessDetail": "No further payments will be charged. You will receive a confirmation email.",
+    "confirmError": "Error cancelling subscription",
+    "backHome": "Back to home",
+    "requestNewLink": "Request new link"
+  },
+  "blog": {
+    "seo": {
+      "title": "Blog | Private Sommelier Belgium",
+      "description": "Read articles about wine, grape varieties and culinary expertise by your private sommelier. Tips on wine selection, food pairing and more.",
+      "keywords": "private sommelier blog, wine articles, grape varieties, wine tips, sommelier advice"
+    },
+    "allArticles": "All articles",
+    "readMore": "Read more",
+    "minutes": "min",
+    "minRead": "min read",
+    "readTime": "min read",
+    "backToBlog": "Back to blog",
+    "relatedArticles": "Related articles",
+    "relatedPosts": "Related Posts",
+    "viewAllPosts": "View all posts",
+    "notFound": "Article not found",
+    "tableOfContents": "Table of Contents",
+    "summary": "Summary",
+    "keyTakeaways": "Key Takeaways",
+    "categories": {
+      "all": "All",
+      "druiven": "Grapes",
+      "tips": "Tips",
+      "service": "Service"
+    }
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "blog": "Blog",
+    "about": "About",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "cookies": "Cookie Policy"
+  },
+  "modal": {
+    "included": "Included:",
+    "extras": "Optional extras:",
+    "viewAll": "View all subscriptions"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "subtitle": "Atmosphere images of events, tastings and the world of wine",
+    "seo": {
+      "title": "Gallery | Private Sommelier Belgium",
+      "description": "Explore the world of wine through our gallery. Exclusive images of wine tastings, champagne houses, vineyards and private events.",
+      "keywords": "wine gallery, champagne, wine tasting photos, sommelier, wine collection, vineyards"
+    },
+    "categories": {
+      "premium": "Premium Collection",
+      "vintage": "Vintage Wines",
+      "champagne": "Champagne",
+      "dessert": "Dessert Wine",
+      "awards": "Awards",
+      "vineyards": "Vineyards",
+      "cellar": "Wine Cellar",
+      "tasting": "Tastings",
+      "spirits": "Spirits",
+      "education": "Education"
+    },
+    "images": {
+      "pommard": "Pommard Clos Epeneaux",
+      "rousseau": "Clos de la Roche 1996",
+      "agrapart": "Agrapart et Fils",
+      "vouvray": "Vouvray Le Mont 1995",
+      "bollingerSign": "Maison Bollinger",
+      "collection": "Exclusive Selection",
+      "yquem": "Château d'Yquem 6L",
+      "clicquotCork": "La Grande Dame Cork",
+      "bollingerBarrel": "Bollinger Oak Barrel",
+      "ayala": "Maison Ayala",
+      "certan": "Vieux Château Certan",
+      "award": "Sommelier of the Year",
+      "loireVineyard": "Loire Vineyard",
+      "cellarBarrels": "Traditional Cellar",
+      "krug": "Krug Clos du Mesnil 2000",
+      "jancisRobinson": "Jancis Robinson Wine Encyclopedia",
+      "rousseau2016": "Armand Rousseau Grand Cru 2016",
+      "tastingAtmosphere": "Wine Tasting Atmosphere",
+      "whiskyCollection": "Exclusive Whisky Collection",
+      "paillardCorks": "Bruno Paillard Champagne Corks",
+      "remuageCellar": "Remuage in Champagne Cellar",
+      "concreteEggs": "Concrete Fermentation Eggs",
+      "amphoras": "Terracotta Amphoras",
+      "event": "Wine tasting event",
+      "sommelierExamining": "Sommelier examining wine",
+      "cellarCollection": "Premium wine cellar",
+      "vineyard": "Vineyard landscape",
+      "restaurantService": "Restaurant wine service",
+      "workshop": "Wine education workshop",
+      "bottleCollection": "Premium wine bottles",
+      "privateTasting": "Private wine tasting",
+      "consultation": "Restaurant consultation",
+      "pairing": "Wine and cheese pairing",
+      "label": "Examining wine label",
+      "barrelCellar": "Traditional wine cellar"
+    }
+  },
+  "legal": {
+    "privacy": {
+      "title": "Privacy Policy",
+      "lastUpdate": "Last updated: November 2025",
+      "metaDescription": "Privacy Policy of Sommelier Quintelier - How we protect and use your personal data.",
+      "sections": {
+        "introduction": {
+          "title": "1. Introduction",
+          "content": "Sommelier Quintelier, established in Belgium and represented by Yentl Quintelier, places great importance on protecting your privacy. In this privacy policy, we explain what personal data we collect, why we collect it, and how we use it."
+        },
+        "controller": {
+          "title": "2. Data Controller"
+        },
+        "dataCollected": {
+          "title": "3. What Data Do We Collect?",
+          "intro": "We may collect the following personal data from you:",
+          "items": {
+            "contact": "Contact details (name, email address, phone number)",
+            "business": "Business details (company name, VAT number if applicable)",
+            "communication": "Communication data (messages, questions, feedback)",
+            "payment": "Payment data (for subscriptions and services)",
+            "preferences": "Preferences (wine preferences, allergies, dietary requirements)"
+          }
+        },
+        "purpose": {
+          "title": "4. Why Do We Collect Your Data?",
+          "intro": "We use your personal data for:",
+          "items": {
+            "services": "Providing our services (wine advice, tastings, subscriptions)",
+            "orders": "Processing orders, payments, and recurring subscriptions",
+            "questions": "Responding to your questions and requests",
+            "newsletters": "Sending newsletters (only with your consent)",
+            "improvement": "Improving our services and marketing",
+            "legal": "Complying with legal obligations"
+          }
+        },
+        "rights": {
+          "title": "5. Your Rights",
+          "intro": "You have the following rights regarding your personal data:",
+          "items": {
+            "access": "Right of access - You can request what data we hold about you",
+            "rectification": "Right to rectification - You can request correction of incorrect data",
+            "erasure": "Right to erasure - You can request deletion of your data",
+            "restriction": "Right to restriction - You can request limitation of processing",
+            "objection": "Right to object - You can object to the processing",
+            "portability": "Right to data portability - You can receive your data in a structured format"
+          },
+          "contact": "To exercise these rights, please contact us at info@yentlquintelier.com"
+        },
+        "security": {
+          "title": "6. Security",
+          "content": "We take appropriate technical and organizational measures to protect your personal data against loss, misuse, unauthorized access, and unwanted disclosure."
+        },
+        "contact": {
+          "title": "7. Contact",
+          "content": "Do you have questions about our privacy policy? Feel free to contact us."
+        }
+      }
+    },
+    "terms": {
+      "title": "Terms and Conditions",
+      "lastUpdate": "Last updated: November 2025",
+      "metaDescription": "Terms and Conditions of Sommelier Quintelier for services and wine subscriptions.",
+      "sections": {
+        "scope": {
+          "title": "1. Scope",
+          "content": "These terms and conditions apply to all services offered by Yentl Quintelier, operating under the name Sommelier Quintelier, established in Belgium. By using our services, you agree to these terms and conditions."
+        },
+        "services": {
+          "title": "2. Our Services",
+          "intro": "We offer the following services:",
+          "items": {
+            "consultancy": "Wine advice and consultancy for individuals and businesses",
+            "tastings": "Wine tastings and educational events",
+            "private": "Private sommelier services",
+            "wineList": "Wine list creation and management for restaurants",
+            "cellar": "Private Wine Cellar management",
+            "subscriptions": "Monthly wine subscriptions"
+          }
+        },
+        "orders": {
+          "title": "3. Orders and Agreements",
+          "content": "An agreement is concluded when you place an order and we confirm it by email. All offers are non-binding unless otherwise stated. We reserve the right to refuse orders without giving reasons."
+        },
+        "payment": {
+          "title": "4. Prices and Payment",
+          "content": "All prices are in euros and include VAT unless otherwise stated. Payment must be made according to the payment method stated on the invoice and within the specified period. For wine subscriptions, payment is made via automatic direct debit through our payment provider Mollie."
+        },
+        "subscriptions": {
+          "title": "5. Wine Subscriptions",
+          "duration": {
+            "label": "Duration and Renewal:",
+            "content": "Wine subscriptions are automatically renewed monthly unless otherwise agreed. Payment is made via automatic direct debit through Mollie."
+          },
+          "cancellation": {
+            "label": "Cancellation:",
+            "content": "You can cancel your subscription at any time. Cancellation can be done via the link in your order confirmation or by contacting info@yentlquintelier.com."
+          },
+          "payment": {
+            "label": "Payment:",
+            "content": "The first monthly payment takes place when the subscription is concluded. Subsequent payments are automatically collected around the same date in the following months."
+          },
+          "delivery": {
+            "label": "Delivery:",
+            "content": "We strive to deliver monthly selections on time. Delays due to external factors cannot be attributed to us."
+          }
+        },
+        "delivery": {
+          "title": "6. Delivery and Shipping",
+          "content": "Deliveries take place in Belgium. Delivery times are indicative and not binding. We are not liable for delays beyond our control."
+        },
+        "withdrawal": {
+          "title": "7. Right of Withdrawal",
+          "content": "Private customers have the right to withdraw from the agreement within 14 days of receiving the products, without giving reasons. Returns must be made in original condition and packaging."
+        },
+        "liability": {
+          "title": "8. Liability",
+          "content": "Our liability is limited to the invoice value of the services or products concerned. We are not liable for indirect damage, consequential damage or lost profits."
+        },
+        "contact": {
+          "title": "9. Contact",
+          "content": "Do you have questions about our terms and conditions? Feel free to contact us."
+        }
+      }
+    },
+    "cookies": {
+      "title": "Cookie Policy",
+      "lastUpdate": "Last updated: November 2025",
+      "metaDescription": "Cookie Policy of Sommelier Quintelier - Information about the use of cookies on our website.",
+      "sections": {
+        "what": {
+          "title": "1. What Are Cookies?",
+          "content": "Cookies are small text files that are placed on your computer or mobile device when you visit our website. Cookies ensure that the website works properly and remember your preferences for future visits."
+        },
+        "why": {
+          "title": "2. Why Do We Use Cookies?",
+          "intro": "We use cookies for the following purposes:",
+          "items": {
+            "functional": "Making the website function (functional cookies)",
+            "analytics": "Analyzing website visits and user behavior (analytical cookies)",
+            "experience": "Improving the user experience",
+            "language": "Remembering your language preference",
+            "preferences": "Remembering your cookie preferences"
+          }
+        },
+        "types": {
+          "title": "3. Which Cookies Do We Use?",
+          "necessary": {
+            "title": "3.1 Necessary Cookies",
+            "content": "These cookies are essential for the website to function. Without these cookies, the website cannot work properly."
+          },
+          "functional": {
+            "title": "3.2 Functional Cookies",
+            "content": "These cookies ensure that the website functions properly and remember your preferences."
+          },
+          "analytics": {
+            "title": "3.3 Analytical Cookies",
+            "content": "These cookies help us understand how visitors use the website. The information is collected anonymously."
+          },
+          "marketing": {
+            "title": "3.4 Marketing Cookies",
+            "content": "These cookies are used to make advertisements more relevant to you and your interests."
+          }
+        },
+        "thirdParty": {
+          "title": "4. Third-Party Cookies",
+          "intro": "In addition to our own cookies, third parties also place cookies:",
+          "items": {
+            "analytics": "For analyzing website visits",
+            "payment": "For secure payment processing and subscription management",
+            "email": "For email tracking"
+          }
+        },
+        "manage": {
+          "title": "5. Managing Cookies",
+          "content": "You can delete cookies at any time via your browser settings. You can also set your browser to automatically block cookies or to notify you when a cookie is placed."
+        },
+        "contact": {
+          "title": "6. Contact",
+          "content": "Do you have questions about our cookie policy? Feel free to contact us."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1 @@
+import{j as e,z as t}from"./index--c8LnkeS.js";import{S as a}from"./ServicePageTemplate-DgUfzAIT.js";import"./Breadcrumbs-sVAiwXz3.js";function n(){return e.jsx(a,{serviceKey:"tasting",featuredImage:t,featuredImageAlt:"Private wine tasting gathering"})}export{n as default};
