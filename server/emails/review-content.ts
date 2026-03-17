@@ -36,7 +36,7 @@ export const reviewEmailContent: Record<Language, ReviewEmailContent> = {
     footerLocation: 'België',
     websiteUrl: WEBSITE_URL,
     viewInBrowserText: 'Bekijk in browser',
-    contactEmail: 'info@sommelierquintelier.com'
+    contactEmail: 'sommelier@yentlquintelier.com'
   },
   en: {
     subject: 'How was your wine experience? 🍷',
@@ -53,7 +53,7 @@ export const reviewEmailContent: Record<Language, ReviewEmailContent> = {
     footerLocation: 'Belgium',
     websiteUrl: WEBSITE_URL,
     viewInBrowserText: 'View in browser',
-    contactEmail: 'info@sommelierquintelier.com'
+    contactEmail: 'sommelier@yentlquintelier.com'
   },
   fr: {
     subject: 'Comment était votre expérience vinicole ? 🍷',
@@ -70,6 +70,6 @@ export const reviewEmailContent: Record<Language, ReviewEmailContent> = {
     footerLocation: 'Belgique',
     websiteUrl: WEBSITE_URL,
     viewInBrowserText: 'Voir dans le navigateur',
-    contactEmail: 'info@sommelierquintelier.com'
+    contactEmail: 'sommelier@yentlquintelier.com'
   }
 };

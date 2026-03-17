@@ -179,7 +179,7 @@ export function Footer() {
                 <ul className="space-y-3 pt-4 text-white/70 text-sm">
                   <li>
                     <a 
-                      href="mailto:info@sommelierquintelier.com" 
+                      href="mailto:sommelier@yentlquintelier.com" 
                       className="block hover:text-white transition-colors"
                       data-testid="link-footer-email"
                     >
@@ -325,7 +325,7 @@ export function Footer() {
               <ul className="space-y-2 text-white/70 text-sm">
                 <li>
                   <a 
-                    href="mailto:info@sommelierquintelier.com" 
+                    href="mailto:sommelier@yentlquintelier.com" 
                     className="hover:text-white transition-colors"
                     data-testid="link-footer-email"
                   >
@@ -449,22 +449,7 @@ export function Footer() {
             <a href="/cookies" className="hover:text-white transition-colors" data-testid="link-footer-cookies">{t('footer.cookies')}</a>
             <a href="/cancel-subscription" className="hover:text-white transition-colors" data-testid="link-footer-cancel">{t('footer.cancelSubscription')}</a>
           </div>
-          <div className="text-xs text-white/40">
-            <a 
-              href="https://saerensadvertising.com" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-1.5 hover:text-white/60 transition-colors group"
-              data-testid="link-footer-saerens"
-            >
-              <img 
-                src={saLogo} 
-                alt="Saerens Advertising Logo" 
-                className="h-3.5 w-3.5 opacity-40 group-hover:opacity-60 transition-opacity"
-              />
-              <span>Saerens Agency</span>
-            </a>
-          </div>
+         
         </div>
       </div>
     </footer>

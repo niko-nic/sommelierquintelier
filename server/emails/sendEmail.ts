@@ -435,11 +435,11 @@ export async function sendWelcomeEmail({ to, language }: SendWelcomeEmailParams)
     const msg = {
       to,
       from: {
-        email: 'info@sommelierquintelier.com',
+        email: 'sommelier@yentlquintelier.com',
         name: 'Yentl Quintelier - Sommelier'
       },
       replyTo: {
-        email: 'info@sommelierquintelier.com',
+        email: 'sommelier@yentlquintelier.com',
         name: 'Yentl Quintelier'
       },
       subject: content.subject,
@@ -858,8 +858,8 @@ export function generateOrderConfirmationEmailHTML(content: OrderConfirmationEma
                             <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
                                 <tr>
                                     <td align="center" style="padding-bottom: 25px;">
-                                        <a href="mailto:info@sommelierquintelier.com" style="color: #c7b79e; font-size: 14px; text-decoration: none;">
-                                            &#9993; info@sommelierquintelier.com
+                                        <a href="mailto:sommelier@yentlquintelier.com" style="color: #c7b79e; font-size: 14px; text-decoration: none;">
+                                            &#9993; sommelier@yentlquintelier.com
                                         </a>
                                     </td>
                                 </tr>
@@ -957,11 +957,11 @@ ${content.signature}
     const msg = {
       to: order.customerEmail,
       from: {
-        email: 'info@sommelierquintelier.com',
+        email: 'sommelier@yentlquintelier.com',
         name: 'Yentl Quintelier - Sommelier'
       },
       replyTo: {
-        email: 'info@sommelierquintelier.com',
+        email: 'sommelier@yentlquintelier.com',
         name: 'Yentl Quintelier'
       },
       subject: content.subject,
@@ -987,9 +987,9 @@ ${content.signature}
       : 'Geen';
 
     const adminMsg = {
-      to: 'info@sommelierquintelier.com',
+      to: 'sommelier@yentlquintelier.com',
       from: {
-        email: 'info@sommelierquintelier.com',
+        email: 'sommelier@yentlquintelier.com',
         name: 'Sommelier Quintelier - Bestellingen'
       },
       subject: `🍷 Nieuwe bestelling: ${order.tierName} - €${order.amount}`,
@@ -1031,7 +1031,7 @@ ${content.signature}
 
     try {
       await sgMail.send(adminMsg);
-      console.log(`✅ Admin notification email sent to info@sommelierquintelier.com`);
+      console.log(`✅ Admin notification email sent to sommelier@yentlquintelier.com`);
     } catch (adminError: any) {
       console.error('⚠️ Admin notification email failed (order confirmation was sent):', adminError.message);
     }
@@ -1413,11 +1413,11 @@ ${content.signature}
     const msg = {
       to,
       from: {
-        email: 'info@sommelierquintelier.com',
+        email: 'sommelier@yentlquintelier.com',
         name: 'Yentl Quintelier - Sommelier'
       },
       replyTo: {
-        email: 'info@sommelierquintelier.com',
+        email: 'sommelier@yentlquintelier.com',
         name: 'Yentl Quintelier'
       },
       subject: content.subject,
@@ -2000,11 +2000,11 @@ ${content.signature}
     const msg = {
       to: request.email,
       from: {
-        email: 'info@sommelierquintelier.com',
+        email: 'sommelier@yentlquintelier.com',
         name: 'Yentl Quintelier - Sommelier'
       },
       replyTo: {
-        email: 'info@sommelierquintelier.com',
+        email: 'sommelier@yentlquintelier.com',
         name: 'Yentl Quintelier'
       },
       subject: content.subject,
@@ -2063,9 +2063,9 @@ ${request.additionalWishes || content.noAdditionalWishes}
     `.trim();
 
     const msg = {
-      to: 'info@sommelierquintelier.com',
+      to: 'sommelier@yentlquintelier.com',
       from: {
-        email: 'info@sommelierquintelier.com',
+        email: 'sommelier@yentlquintelier.com',
         name: 'Sommelier Quintelier - Website'
       },
       replyTo: {
@@ -2086,7 +2086,7 @@ ${request.additionalWishes || content.noAdditionalWishes}
     };
 
     await sgMail.send(msg);
-    console.log(`✅ Custom package admin notification sent to info@sommelierquintelier.com`);
+    console.log(`✅ Custom package admin notification sent to sommelier@yentlquintelier.com`);
     return true;
   } catch (error: any) {
     console.error('❌ Error sending custom package admin notification:', error);
@@ -2316,11 +2316,11 @@ ${content.signature}
     const msg = {
       to,
       from: {
-        email: 'info@sommelierquintelier.com',
+        email: 'sommelier@yentlquintelier.com',
         name: 'Yentl Quintelier - Sommelier'
       },
       replyTo: {
-        email: 'info@sommelierquintelier.com',
+        email: 'sommelier@yentlquintelier.com',
         name: 'Yentl Quintelier'
       },
       subject: content.subject,
@@ -2741,11 +2741,11 @@ ${content.signature}
     const msg = {
       to,
       from: {
-        email: 'info@sommelierquintelier.com',
+        email: 'sommelier@yentlquintelier.com',
         name: 'Yentl Quintelier - Sommelier'
       },
       replyTo: {
-        email: 'info@sommelierquintelier.com',
+        email: 'sommelier@yentlquintelier.com',
         name: 'Yentl Quintelier'
       },
       subject: content.subject,

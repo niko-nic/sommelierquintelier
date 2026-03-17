@@ -127,10 +127,10 @@ export default function Contact() {
                   <div>
                     <h3 className="text-xl font-light mb-2">Email</h3>
                     <a 
-                      href="mailto:info@sommelierquintelier.com" 
+                      href="mailto:sommelier@yentlquintelier.com" 
                       className="text-muted-foreground text-lg hover:text-primary transition-colors"
                     >
-                      info@sommelierquintelier.com
+                      sommelier@yentlquintelier.com
                     </a>
                   </div>
                 </div>

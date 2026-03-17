@@ -30,19 +30,19 @@ export function StructuredData() {
       "@type": "GeoCoordinates",
       "addressCountry": "BE"
     },
-    "email": "info@sommelierquintelier.com",
+    "email": "sommelier@yentlquintelier.com",
     "contactPoint": [
       {
         "@type": "ContactPoint",
         "contactType": "Customer Service",
-        "email": "info@sommelierquintelier.com",
+        "email": "sommelier@yentlquintelier.com",
         "availableLanguage": ["Dutch", "English", "French"],
         "areaServed": "BE"
       },
       {
         "@type": "ContactPoint",
         "contactType": "Sales",
-        "email": "info@sommelierquintelier.com",
+        "email": "sommelier@yentlquintelier.com",
         "availableLanguage": ["Dutch", "English", "French"],
         "areaServed": "BE"
       }
@@ -80,7 +80,7 @@ export function StructuredData() {
     "name": "Sommelier Quintelier",
     "image": "https://sommelierquintelier.com/favicon.png",
     "url": "https://sommelierquintelier.com",
-    "email": "info@sommelierquintelier.com",
+    "email": "sommelier@yentlquintelier.com",
     "priceRange": "€€€",
     "address": {
       "@type": "PostalAddress",
@@ -131,7 +131,7 @@ export function StructuredData() {
     "name": "Sommelier Quintelier - Wine Consultancy",
     "image": "https://sommelierquintelier.com/favicon.png",
     "url": "https://sommelierquintelier.com",
-    "email": "info@sommelierquintelier.com",
+    "email": "sommelier@yentlquintelier.com",
     "priceRange": "€€€",
     "address": {
       "@type": "PostalAddress",
@@ -173,7 +173,7 @@ export function StructuredData() {
     ],
     "url": "https://sommelierquintelier.com",
     "image": "https://sommelierquintelier.com/favicon.png",
-    "email": "info@sommelierquintelier.com",
+    "email": "sommelier@yentlquintelier.com",
     "worksFor": {
       "@type": "Organization",
       "name": "Sommelier Quintelier"

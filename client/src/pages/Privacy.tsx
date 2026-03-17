@@ -37,7 +37,7 @@ const getPrivacyContent = (lang: string): PrivacyContent => {
               Yentl Quintelier - Sommelier<br />
               VAT: BE1025083231<br />
               Belgium<br />
-              Email: info@sommelierquintelier.com
+              Email: sommelier@yentlquintelier.com
             </p>
           ),
         },
@@ -158,7 +158,7 @@ const getPrivacyContent = (lang: string): PrivacyContent => {
                 <li>Right to data portability - You can receive your data in a structured format</li>
               </ul>
               <p className="text-muted-foreground leading-relaxed mt-4">
-                To exercise these rights, please contact us at info@sommelierquintelier.com
+                To exercise these rights, please contact us at sommelier@yentlquintelier.com
               </p>
             </>
           ),
@@ -209,7 +209,7 @@ const getPrivacyContent = (lang: string): PrivacyContent => {
               <p className="text-muted-foreground leading-relaxed mt-4">
                 Yentl Quintelier - Sommelier<br />
                 VAT: BE1025083231<br />
-                Email: <a href="mailto:info@sommelierquintelier.com" className="text-primary hover:underline">info@sommelierquintelier.com</a>
+                Email: <a href="mailto:sommelier@yentlquintelier.com" className="text-primary hover:underline">sommelier@yentlquintelier.com</a>
               </p>
             </>
           ),
@@ -240,7 +240,7 @@ const getPrivacyContent = (lang: string): PrivacyContent => {
               Yentl Quintelier - Sommelier<br />
               TVA: BE1025083231<br />
               Belgique<br />
-              Email: info@sommelierquintelier.com
+              Email: sommelier@yentlquintelier.com
             </p>
           ),
         },
@@ -361,7 +361,7 @@ const getPrivacyContent = (lang: string): PrivacyContent => {
                 <li>Droit à la portabilité - Vous pouvez recevoir vos données dans un format structuré</li>
               </ul>
               <p className="text-muted-foreground leading-relaxed mt-4">
-                Pour exercer ces droits, veuillez nous contacter à info@sommelierquintelier.com
+                Pour exercer ces droits, veuillez nous contacter à sommelier@yentlquintelier.com
               </p>
             </>
           ),
@@ -412,7 +412,7 @@ const getPrivacyContent = (lang: string): PrivacyContent => {
               <p className="text-muted-foreground leading-relaxed mt-4">
                 Yentl Quintelier - Sommelier<br />
                 TVA: BE1025083231<br />
-                Email: <a href="mailto:info@sommelierquintelier.com" className="text-primary hover:underline">info@sommelierquintelier.com</a>
+                Email: <a href="mailto:sommelier@yentlquintelier.com" className="text-primary hover:underline">sommelier@yentlquintelier.com</a>
               </p>
             </>
           ),
@@ -443,7 +443,7 @@ const getPrivacyContent = (lang: string): PrivacyContent => {
             Yentl Quintelier - Sommelier<br />
             BTW: BE1025083231<br />
             België<br />
-            E-mail: info@sommelierquintelier.com
+            E-mail: sommelier@yentlquintelier.com
           </p>
         ),
       },
@@ -564,7 +564,7 @@ const getPrivacyContent = (lang: string): PrivacyContent => {
               <li>Recht op gegevensoverdracht - U kunt uw gegevens in een gestructureerd formaat ontvangen</li>
             </ul>
             <p className="text-muted-foreground leading-relaxed mt-4">
-              Om deze rechten uit te oefenen, kunt u contact met ons opnemen via info@sommelierquintelier.com
+              Om deze rechten uit te oefenen, kunt u contact met ons opnemen via sommelier@yentlquintelier.com
             </p>
           </>
         ),
@@ -615,7 +615,7 @@ const getPrivacyContent = (lang: string): PrivacyContent => {
             <p className="text-muted-foreground leading-relaxed mt-4">
               Yentl Quintelier - Sommelier<br />
               BTW: BE1025083231<br />
-              E-mail: <a href="mailto:info@sommelierquintelier.com" className="text-primary hover:underline">info@sommelierquintelier.com</a>
+              E-mail: <a href="mailto:sommelier@yentlquintelier.com" className="text-primary hover:underline">sommelier@yentlquintelier.com</a>
             </p>
           </>
         ),
